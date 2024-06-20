@@ -1,0 +1,361 @@
+person,age,country,education,gender,FK_9,FK_10,FK_11,FK_12,Height,Weight,RecipeWebUsage,HomeCook,CookingExp,EatingGoals,Depression,PhysicalActivity,SleepHours,CookingTime,recipe_id,recipe_name,Nutri_score,fsa_score,healthiness,liked_recipes,prepare_recipes,fit_preference,know_many,recommend_recipe,many_to_choose,easy_choice,choice_overwhelming,sys_time,unders_sys,many_actions,condition,N_condition,choice_satisfaction,choice_difficulty,perceived_effort,SFD,PE
+14,b25_35,AS,BA,Male,2,3,3,3,187.0,74.0,Weekly,Weekly,Medium,Gain Weight,Not at all,Average (=6h),7-9h,30-60min,3364,Fettuccine with Sweet Pepper-Cayenne Sauce,A,8,healthy,3,3,3,3,4,2,3,2,2,3,3,No label,0,3.25,2.3333333333333335,2.5,2.75,KB
+15,b25_35,AL,High_school,Male,4,3,3,3,179.0,85.0,Weekly,Weekly,High,Gain Weight,Somewhat,Average (=6h),≤7h,30-60min,5474,Ham Chowder,B,10,unhealthy,2,4,5,3,2,5,5,1,1,4,2,No label,0,3.25,3.6666666666666665,1.5,3.25,KB
+17,b18_24,GB,MSc,Male,4,5,3,4,180.0,70.0,Daily,Daily,High,Gain Weight,Not at all,A lot (>9h),7-9h,≤30min,3735,Hawaiian Chicken II,C,10,unhealthy,4,4,5,4,5,2,2,1,1,4,2,No label,0,4.5,1.6666666666666667,1.5,4.0,KB
+18,b45_55,GB,High_school,Female,3,4,3,5,154.0,56.0,Monthly,Daily,Medium,Lose Weight,Not at all,Average (=6h),≤7h,30-60min,561,Moroccan Tagine,A,6,healthy,4,4,4,2,3,2,2,1,2,2,1,No label,0,3.75,1.6666666666666667,1.5,3.75,KB
+19,b25_35,GB,High_school,Female,3,4,3,3,160.0,70.0,Monthly,Daily,Low,Lose Weight,Somewhat,Average (=6h),≤7h,30-60min,1322,Quinoa and Black Bean Chili,A,5,healthy,3,4,4,1,4,2,2,2,2,1,2,No label,0,3.75,2.0,2.0,3.25,KB
+20,b45_55,GB,High_school,Female,3,4,3,4,168.0,85.0,Monthly,Weekly,Medium,Lose Weight,Not at all,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,4,2,3,3,2,2,1,2,2,No label,0,3.75,2.3333333333333335,1.5,3.5,KB
+22,b25_35,GB,MSc,Female,4,5,4,4,163.0,63.0,Monthly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,4,4,3,3,4,2,1,1,1,1,No label,0,3.75,2.3333333333333335,1.0,4.25,KB
+23,b25_35,GB,BA,Female,4,4,4,4,172.0,63.0,Monthly,Daily,Medium,No Goal,Not at all,A lot (>9h),7-9h,30-60min,2051,Zucchini Pasta II,B,7,healthy,4,4,4,1,3,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,4.0,KB
+24,b25_35,GB,High_school,Female,4,3,3,4,178.0,85.0,Weekly,Weekly,Low,Lose Weight,Quite a lot,Not enough (<3h),7-9h,≤30min,3775,Banana Banana Bread,D,9,unhealthy,5,3,4,3,3,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,3.5,KB
+25,b25_35,GB,BA,Female,2,4,3,4,186.0,85.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,≤30min,3735,Hawaiian Chicken II,C,10,unhealthy,5,5,5,2,4,1,2,1,1,2,1,No label,0,4.75,1.3333333333333333,1.0,3.25,KB
+26,b25_35,GB,MSc,Female,4,4,4,4,180.0,80.0,Monthly,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,3,4,2,4,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,4.0,KB
+27,b18_24,GB,BA,Female,3,4,3,4,178.0,65.0,Monthly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,6225,The Best Sweet and Sour Meatballs,B,11,unhealthy,3,3,3,2,4,2,2,2,1,2,1,No label,0,3.25,2.0,1.0,3.5,KB
+28,bover_55,GB,High_school,Male,3,4,4,3,177.0,95.0,Monthly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),≤7h,≥60min,561,Moroccan Tagine,A,6,healthy,4,3,3,2,4,2,2,3,3,3,3,No label,0,3.5,2.3333333333333335,3.0,3.5,KB
+29,b18_24,GB,High_school,refuse_to_disc,4,4,3,4,160.0,48.0,Monthly,Daily,Medium,No Goal,Somewhat,A lot (>9h),7-9h,≤30min,2051,Zucchini Pasta II,B,7,healthy,4,3,5,1,3,2,2,1,2,2,4,No label,0,3.75,1.6666666666666667,3.0,3.75,KB
+30,b25_35,GB,High_school,Male,3,3,2,2,155.0,83.0,Monthly,Monthly,Very_Low,Lose Weight,Not at all,Not enough (<3h),≤7h,≤30min,6002,Country Scalloped Potatoes,A,9,unhealthy,4,4,4,5,4,1,3,2,1,1,2,No label,0,4.0,2.0,1.5,2.5,KB
+31,b25_35,GB,MSc,Female,4,4,3,4,150.0,50.0,Monthly,Daily,Medium,No Goal,Somewhat,Average (=6h),7-9h,30-60min,5569,Luscious Chicken Pot Pie,A,10,unhealthy,4,3,4,3,3,4,4,4,2,2,1,No label,0,3.5,4.0,1.5,3.75,KB
+32,b35_45,GB,BA,Male,4,4,2,2,195.0,92.0,Monthly,Monthly,Low,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,3,4,2,3,1,2,2,2,2,1,No label,0,3.5,1.6666666666666667,1.5,3.0,KB
+33,b35_45,GB,BA,Female,4,4,3,4,172.0,65.0,Monthly,Daily,Medium,No Goal,Somewhat,Not enough (<3h),≤7h,≤30min,5785,Easy Baked Chicken,C,9,unhealthy,4,4,4,3,3,2,1,2,2,2,2,No label,0,3.75,1.6666666666666667,2.0,3.75,KB
+34,b25_35,GB,BA,Female,3,4,3,5,175.0,200.0,Weekly,Daily,Medium,Lose Weight,Somewhat,Average (=6h),7-9h,≤30min,2106,Slow Cooker Spicy Black-Eyed Peas,A,5,healthy,2,2,4,1,4,5,4,1,1,1,1,No label,0,3.0,3.3333333333333335,1.0,3.75,KB
+35,b25_35,GB,Doctorate,Female,5,5,5,5,164.0,68.0,Monthly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,≥60min,779,Zesty Tilapia with Mushrooms,B,7,healthy,4,4,4,3,3,2,2,1,1,1,1,No label,0,3.75,1.6666666666666667,1.0,5.0,KB
+37,b25_35,GB,High_school,Male,3,3,3,4,170.0,65.0,Monthly,Weekly,Medium,No Goal,Somewhat,A lot (>9h),7-9h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,4,4,3,4,3,2,2,1,1,1,No label,0,4.0,2.3333333333333335,1.0,3.25,KB
+38,b45_55,GB,BA,Female,3,4,3,3,160.0,60.0,Monthly,Weekly,Medium,No Goal,Somewhat,Not enough (<3h),≤7h,≤30min,2265,Tomato-Curry Lentil Stew,A,4,healthy,4,4,4,4,4,4,4,2,2,2,2,No label,0,4.0,3.3333333333333335,2.0,3.25,KB
+39,b18_24,GB,BA,Female,3,4,3,4,168.0,47.0,Monthly,Weekly,Medium,No Goal,Not at all,Not enough (<3h),7-9h,≥60min,2051,Zucchini Pasta II,B,7,healthy,4,4,4,2,3,1,1,1,2,2,1,No label,0,3.75,1.0,1.5,3.5,KB
+40,b25_35,GB,BA,Female,2,3,3,3,145.0,75.0,Monthly,Weekly,Low,Lose Weight,Somewhat,Average (=6h),7-9h,30-60min,4565,Raspberry Oat Bars,E,10,unhealthy,4,2,2,2,2,4,4,2,2,2,2,No label,0,2.5,3.3333333333333335,2.0,2.75,KB
+41,bover_55,GB,Doctorate,Female,4,4,4,4,170.0,79.0,Monthly,Weekly,Medium,Lose Weight,Not at all,Average (=6h),7-9h,≥60min,779,Zesty Tilapia with Mushrooms,B,7,healthy,4,3,4,2,2,3,4,3,2,2,2,No label,0,3.25,3.3333333333333335,2.0,4.0,KB
+42,b25_35,GB,BA,Female,4,4,4,5,158.0,65.0,Weekly,Weekly,High,No Goal,Somewhat,Average (=6h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,4,3,3,4,2,2,3,3,3,No label,0,3.75,2.6666666666666665,3.0,4.25,KB
+43,bover_55,GB,High_school,Male,4,4,4,4,176.0,70.0,Monthly,Weekly,Medium,No Goal,Not at all,Average (=6h),7-9h,30-60min,2051,Zucchini Pasta II,B,7,healthy,5,4,5,3,4,1,2,2,1,2,3,No label,0,4.5,1.6666666666666667,2.0,4.0,KB
+45,b25_35,GB,BA,Male,4,4,4,4,188.0,88.0,Monthly,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,≥60min,2282,Pasta Fagioli Soup II,A,6,healthy,4,4,4,1,3,2,3,2,2,2,2,No label,0,3.75,2.3333333333333335,2.0,4.0,KB
+46,b35_45,GB,MSc,Female,4,4,3,4,164.0,95.0,Monthly,Daily,Medium,No Goal,Somewhat,A lot (>9h),≤7h,≤30min,561,Moroccan Tagine,A,6,healthy,5,5,3,4,4,1,1,1,3,3,3,No label,0,4.25,1.0,3.0,3.75,KB
+47,b25_35,GB,BA,Female,4,5,5,5,165.0,70.0,Weekly,Daily,High,No Goal,Somewhat,Average (=6h),≤7h,≥60min,39,Chicken Satay,B,5,healthy,5,5,5,3,4,1,4,2,1,1,1,No label,0,4.75,2.3333333333333335,1.0,4.75,KB
+48,bover_55,GB,MSc,Female,4,4,4,5,165.0,70.0,Monthly,Weekly,Medium,No Goal,Not at all,Average (=6h),≤7h,30-60min,2751,Burgundy Pork Tenderloin,A,5,healthy,4,3,4,3,3,1,1,1,1,1,1,No label,0,3.5,1.0,1.0,4.25,KB
+49,b18_24,GB,BA,Male,3,4,3,4,165.0,62.0,Monthly,Daily,High,Lose Weight,Quite a lot,A lot (>9h),7-9h,≤30min,831,Lasagna Spirals,A,7,healthy,4,3,4,1,4,4,4,2,2,2,2,No label,0,3.75,3.3333333333333335,2.0,3.5,KB
+50,b25_35,GB,BA,Female,4,4,3,5,165.0,70.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,4,1,3,4,4,4,2,2,2,No label,0,3.75,4.0,2.0,4.0,KB
+51,b45_55,GB,High_school,Female,4,4,4,4,167.0,64.0,Monthly,Daily,Medium,No Goal,Somewhat,Average (=6h),≤7h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,3,4,4,3,4,3,2,2,2,2,No label,0,3.5,3.0,2.0,4.0,KB
+52,b35_45,GB,MSc,Female,2,4,2,2,170.0,127.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,5,2,4,2,2,2,2,2,2,No label,0,4.25,2.0,2.0,2.5,KB
+53,b25_35,GB,MSc,Male,5,4,4,4,180.0,88.0,Weekly,Daily,High,No Goal,Somewhat,A lot (>9h),≤7h,30-60min,1322,Quinoa and Black Bean Chili,A,5,healthy,4,4,5,2,4,2,2,2,1,1,2,No label,0,4.25,2.0,1.5,4.25,KB
+54,b25_35,GB,BA,Male,4,4,4,5,175.0,77.0,Monthly,Weekly,Medium,Lose Weight,Not at all,Average (=6h),≤7h,≤30min,3489,Flank Steak with Avocado Salsa,A,10,unhealthy,4,3,4,1,3,5,4,3,2,2,2,No label,0,3.5,4.0,2.0,4.25,KB
+56,bover_55,GB,High_school,Female,4,4,4,5,157.0,57.0,Monthly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,≤30min,4376,Eggplant Parmesan II,B,10,unhealthy,4,3,3,2,2,1,2,2,3,2,4,No label,0,3.0,1.6666666666666667,3.5,4.25,KB
+57,b25_35,GB,High_school,Female,1,4,3,2,166.0,110.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Average (=6h),7-9h,30-60min,4565,Raspberry Oat Bars,E,10,unhealthy,5,4,4,2,4,2,2,2,2,2,2,No label,0,4.25,2.0,2.0,2.5,KB
+58,b25_35,GB,High_school,Female,4,4,4,4,152.0,48.0,Daily,Daily,High,No Goal,Not at all,Not enough (<3h),7-9h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,4,4,2,4,1,2,2,3,3,3,No label,0,4.0,1.6666666666666667,3.0,4.0,KB
+59,b25_35,GB,BA,Female,4,4,3,4,160.0,60.0,Daily,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,2803,Divine Spaghetti Sauce,A,6,healthy,4,5,5,3,4,2,2,2,2,2,2,No label,0,4.5,2.0,2.0,3.75,KB
+60,bover_55,GB,BA,Male,4,3,4,4,180.0,200.0,Weekly,Daily,High,No Goal,Quite a lot,Not enough (<3h),7-9h,≥60min,1166,Jumbo Shrimp and Asparagus,A,5,healthy,4,3,4,2,3,4,3,2,2,1,2,No label,0,3.5,3.0,2.0,3.75,KB
+61,b35_45,GB,BA,Female,4,4,3,4,171.0,75.0,Daily,Daily,High,Lose Weight,Not at all,A lot (>9h),≥9h,30-60min,2955,Chicken Pasta I,A,5,healthy,1,1,1,4,1,4,5,2,1,2,1,No label,0,1.0,3.6666666666666665,1.0,3.75,KB
+62,b25_35,GB,High_school,Female,2,4,2,2,155.0,50.0,Monthly,Daily,Low,No Goal,Somewhat,Average (=6h),≥9h,30-60min,2803,Divine Spaghetti Sauce,A,6,healthy,4,4,3,3,3,4,2,2,2,2,1,No label,0,3.5,2.6666666666666665,1.5,2.5,KB
+63,b35_45,GB,High_school,Female,4,4,4,4,166.0,60.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,≤30min,2282,Pasta Fagioli Soup II,A,6,healthy,4,4,4,2,3,4,4,2,2,2,2,No label,0,3.75,3.3333333333333335,2.0,4.0,KB
+64,b25_35,GB,High_school,Female,3,2,2,2,178.0,76.0,Monthly,Weekly,Medium,No Goal,Somewhat,Average (=6h),≤7h,≤30min,4535,Absolute Best Potato Casserole,A,9,unhealthy,4,4,4,3,4,2,2,2,2,2,2,No label,0,4.0,2.0,2.0,2.25,KB
+65,bover_55,GB,High_school,Male,4,4,4,4,188.0,89.0,Monthly,Daily,Low,No Goal,Not at all,Not enough (<3h),7-9h,≤30min,17,Steak on a Stick,D,8,healthy,4,2,4,4,2,2,3,2,2,2,2,No label,0,3.0,2.3333333333333335,2.0,4.0,KB
+66,b35_45,GB,High_school,Female,3,4,4,4,157.0,74.0,Monthly,Weekly,Medium,No Goal,Somewhat,A lot (>9h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,3,4,3,4,4,3,2,3,2,2,No label,0,3.75,3.0,2.5,3.75,KB
+67,b35_45,GB,High_school,Male,3,4,3,4,172.0,72.0,Monthly,Daily,High,No Goal,Not at all,A lot (>9h),≤7h,≥60min,2265,Tomato-Curry Lentil Stew,A,4,healthy,4,4,5,2,4,3,2,1,1,1,1,No label,0,4.25,2.0,1.0,3.5,KB
+69,b18_24,GB,BA,Female,4,4,4,4,167.0,56.0,Weekly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,3364,Fettuccine with Sweet Pepper-Cayenne Sauce,A,8,healthy,4,4,4,3,3,3,3,2,2,2,2,No label,0,3.75,2.6666666666666665,2.0,4.0,KB
+70,bover_55,GB,Less_high_school,Female,4,4,3,4,5.0,9.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,4,3,4,2,2,3,3,3,3,No label,0,4.0,2.3333333333333335,3.0,3.75,KB
+71,b18_24,GB,BA,Female,4,4,4,4,163.0,58.0,Monthly,Daily,Medium,No Goal,Not at all,Not enough (<3h),7-9h,30-60min,2803,Divine Spaghetti Sauce,A,6,healthy,4,4,4,3,3,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,4.0,KB
+72,b45_55,GB,BA,Male,4,4,4,4,181.0,112.0,Monthly,Daily,High,Lose Weight,Not at all,Average (=6h),≤7h,≥60min,3533,Grilled Pork Loin Chops,D,9,unhealthy,5,4,4,2,3,1,2,1,3,2,3,No label,0,4.0,1.3333333333333333,3.0,4.0,KB
+73,b45_55,GB,BA,Female,3,4,4,4,174.0,76.0,Weekly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,30-60min,200,Hoisin-Ginger Beef Skewers,B,6,healthy,4,4,5,3,4,4,3,2,3,1,4,No label,0,4.25,3.0,3.5,3.75,KB
+74,b25_35,GB,High_school,Female,4,3,3,4,164.0,53.0,Weekly,Daily,Medium,No Goal,Not at all,Average (=6h),≤7h,30-60min,3533,Grilled Pork Loin Chops,D,9,unhealthy,3,1,2,5,1,2,2,1,3,2,1,No label,0,1.75,1.6666666666666667,2.0,3.5,KB
+75,bover_55,GB,High_school,Female,2,4,4,4,160.0,83.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,≥60min,2593,Salsa Chicken Burrito Filling,C,6,healthy,4,3,3,2,2,2,2,2,2,2,2,No label,0,3.0,2.0,2.0,3.5,KB
+76,b25_35,GB,MSc,Female,5,5,4,5,162.0,64.0,Weekly,Daily,High,Lose Weight,Not at all,Average (=6h),≤7h,30-60min,3092,Thai Ginger Chicken (Gai Pad King),A,4,healthy,4,4,4,2,4,3,2,2,2,2,2,No label,0,4.0,2.3333333333333335,2.0,4.75,KB
+77,b45_55,GB,BA,Female,3,4,2,4,160.0,64.0,Monthly,Weekly,High,Lose Weight,Not at all,Not enough (<3h),≤7h,≤30min,5785,Easy Baked Chicken,C,9,unhealthy,4,3,4,4,4,2,2,1,2,2,2,No label,0,3.75,1.6666666666666667,2.0,3.25,KB
+78,bover_55,GB,Less_high_school,Male,3,4,4,4,1820.0,200.0,Monthly,Daily,High,No Goal,Somewhat,Not enough (<3h),7-9h,30-60min,645,Attitude Chicken,A,7,healthy,4,3,4,3,3,4,2,3,2,2,3,No label,0,3.5,3.0,2.5,3.75,KB
+79,b35_45,GB,BA,Female,4,4,4,4,175.0,50.0,Weekly,Weekly,High,No Goal,Not at all,A lot (>9h),7-9h,30-60min,645,Attitude Chicken,A,7,healthy,4,4,4,2,3,4,2,2,3,3,4,No label,0,3.75,2.6666666666666665,3.5,4.0,KB
+80,b18_24,GB,High_school,Male,5,5,5,5,185.0,83.0,Monthly,Daily,High,Gain Weight,Not at all,A lot (>9h),7-9h,≥60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,3,4,1,3,3,3,4,2,1,1,No label,0,3.5,3.3333333333333335,1.5,5.0,KB
+81,b35_45,GB,BA,Female,3,4,4,3,167.0,54.0,Monthly,Weekly,Medium,No Goal,Somewhat,Not enough (<3h),7-9h,≤30min,5767,Barbeque Beef Casserole,C,9,unhealthy,3,3,3,2,3,4,4,4,2,2,2,No label,0,3.0,4.0,2.0,3.5,KB
+1016,bover_55,GB,High_school,Female,4,4,3,4,160.0,225.0,Monthly,Daily,High,Lose Weight,Not at all,Not enough (<3h),≤7h,≥60min,561,Moroccan Tagine,A,6,healthy,5,4,5,3,4,2,2,1,2,2,2,MTL label,1,4.5,1.6666666666666667,2.0,3.75,KB
+1017,b45_55,GB,BA,Male,3,4,3,4,195.0,95.0,Monthly,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,6033,Simple; Classic Chicken Potpie,B,9,unhealthy,5,2,4,2,3,2,2,1,2,2,2,MTL label,1,3.5,1.6666666666666667,2.0,3.5,KB
+1018,b25_35,GB,MSc,Female,4,4,4,4,160.0,57.0,Monthly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,2051,Zucchini Pasta II,B,7,healthy,4,2,4,1,3,5,4,2,2,4,2,MTL label,1,3.25,3.6666666666666665,2.0,4.0,KB
+1020,b35_45,GB,BA,Male,2,3,2,2,170.0,65.0,Weekly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),≤7h,30-60min,3489,Flank Steak with Avocado Salsa,A,10,unhealthy,4,3,4,2,3,2,2,2,2,2,2,MTL label,1,3.5,2.0,2.0,2.25,KB
+1021,b45_55,GB,High_school,Female,3,5,4,4,5.0,9.0,Weekly,Daily,High,No Goal,Somewhat,Average (=6h),≤7h,≥60min,3533,Grilled Pork Loin Chops,D,9,unhealthy,5,4,4,2,3,4,3,2,2,2,1,MTL label,1,4.0,3.0,1.5,4.0,KB
+1022,b25_35,GB,High_school,Female,3,4,3,4,163.0,68.0,Weekly,Daily,Medium,Lose Weight,Quite a lot,Average (=6h),≤7h,≥60min,608,Quick Lemon Dijon Chicken,A,6,healthy,4,2,4,2,5,2,2,3,3,2,2,MTL label,1,3.75,2.3333333333333335,2.5,3.5,KB
+1023,b25_35,GB,High_school,Female,3,3,3,4,180.0,107.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Average (=6h),≤7h,30-60min,3533,Grilled Pork Loin Chops,D,9,unhealthy,3,4,3,1,3,2,2,2,2,2,2,MTL label,1,3.25,2.0,2.0,3.25,KB
+1024,b45_55,GB,BA,Male,4,4,4,4,180.0,92.0,Monthly,Daily,High,Lose Weight,Not at all,A lot (>9h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,5,2,4,3,4,2,2,1,1,MTL label,1,4.25,3.0,1.5,4.0,KB
+1025,b35_45,GB,High_school,Male,2,2,2,2,182.0,100.0,Monthly,Weekly,Medium,No Goal,Quite a lot,Not enough (<3h),7-9h,≥60min,200,Hoisin-Ginger Beef Skewers,B,6,healthy,4,2,4,4,2,2,2,1,2,2,2,MTL label,1,3.0,1.6666666666666667,2.0,2.0,KB
+1026,b25_35,GB,MSc,refuse_to_disc,3,4,2,4,170.0,85.0,Weekly,Daily,Medium,Lose Weight,Quite a lot,Average (=6h),≤7h,≤30min,1005,Michelle's Blonde Chicken Chili,A,4,healthy,4,3,3,2,3,4,4,2,2,3,2,MTL label,1,3.25,3.3333333333333335,2.0,3.25,KB
+1027,bover_55,GB,High_school,Male,4,4,4,4,184.0,145.0,Monthly,Daily,High,Lose Weight,Quite a lot,Not enough (<3h),7-9h,30-60min,2746,Hearty Hamburger Soup,A,5,healthy,4,3,3,2,3,4,4,1,3,2,2,MTL label,1,3.25,3.0,2.5,4.0,KB
+1028,b35_45,GB,BA,Female,3,4,4,4,178.0,60.0,Monthly,Daily,Medium,No Goal,Not at all,Not enough (<3h),7-9h,≥60min,2955,Chicken Pasta I,A,5,healthy,4,3,3,4,3,2,2,2,2,2,2,MTL label,1,3.25,2.0,2.0,3.75,KB
+1029,b25_35,GB,BA,Female,3,4,3,4,167.0,71.0,Weekly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,3,2,1,2,2,3,4,2,2,3,MTL label,1,2.75,3.0,2.5,3.5,KB
+1030,bover_55,GB,High_school,Female,3,3,3,3,170.0,61.0,Weekly,Daily,Medium,No Goal,Somewhat,Average (=6h),≤7h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,3,3,3,1,2,2,3,1,4,3,2,MTL label,1,2.75,2.0,3.0,3.0,KB
+1031,bover_55,GB,BA,Female,3,3,2,3,160.0,62.0,Monthly,Daily,Medium,No Goal,Somewhat,Average (=6h),≤7h,30-60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,3,2,1,2,1,2,1,3,5,1,MTL label,1,2.75,1.3333333333333333,2.0,2.75,KB
+1032,b35_45,GB,BA,Male,4,4,4,2,187.0,86.0,Weekly,Daily,High,No Goal,Somewhat,Average (=6h),7-9h,30-60min,6033,Simple; Classic Chicken Potpie,B,9,unhealthy,4,3,4,2,3,2,2,2,2,2,2,MTL label,1,3.5,2.0,2.0,3.5,KB
+1033,bover_55,GB,High_school,Female,3,3,3,3,162.0,88.0,Monthly,Weekly,Medium,Lose Weight,Quite a lot,Not enough (<3h),≤7h,≤30min,5940,Chicken Breasts in Caper Cream Sauce,D,10,unhealthy,4,3,3,2,3,5,4,3,3,2,2,MTL label,1,3.25,4.0,2.5,3.0,KB
+1034,b18_24,GB,High_school,Male,4,3,4,4,185.0,63.0,Weekly,Weekly,Medium,No Goal,Somewhat,A lot (>9h),≤7h,30-60min,3092,Thai Ginger Chicken (Gai Pad King),A,4,healthy,4,4,4,1,3,2,2,2,2,2,3,MTL label,1,3.75,2.0,2.5,3.75,KB
+1035,b35_45,GB,High_school,Female,4,4,4,5,160.0,88.0,Monthly,Daily,Very_High,Lose Weight,Not at all,Not enough (<3h),≤7h,30-60min,482,Chicken Chili Soup,A,5,healthy,5,4,4,2,3,2,2,3,2,2,4,MTL label,1,4.0,2.3333333333333335,3.0,4.25,KB
+1036,b18_24,GB,BA,Female,5,5,5,5,164.0,50.0,Weekly,Daily,High,No Goal,Somewhat,Average (=6h),7-9h,30-60min,645,Attitude Chicken,A,7,healthy,4,4,4,2,4,3,3,2,2,2,2,MTL label,1,4.0,2.6666666666666665,2.0,5.0,KB
+1037,b35_45,GB,MSc,Male,3,4,3,4,180.0,95.0,Weekly,Daily,High,Lose Weight,Not at all,Average (=6h),≤7h,30-60min,3533,Grilled Pork Loin Chops,D,9,unhealthy,4,4,4,2,4,2,2,2,3,2,2,MTL label,1,4.0,2.0,2.5,3.5,KB
+1038,bover_55,GB,BA,Female,3,4,3,4,190.0,72.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,≤30min,831,Lasagna Spirals,A,7,healthy,5,4,4,4,4,2,2,1,1,2,1,MTL label,1,4.25,1.6666666666666667,1.0,3.5,KB
+1039,b35_45,GB,High_school,Male,4,5,3,4,196.0,110.0,Monthly,Weekly,Medium,No Goal,Not at all,A lot (>9h),7-9h,≥60min,2955,Chicken Pasta I,A,5,healthy,4,3,4,2,3,2,2,2,3,2,2,MTL label,1,3.5,2.0,2.5,4.0,KB
+1040,b18_24,GB,BA,Female,4,4,3,4,157.0,54.0,Weekly,Weekly,High,No Goal,Not at all,Not enough (<3h),≥9h,≤30min,2051,Zucchini Pasta II,B,7,healthy,4,4,3,1,3,4,3,2,2,2,2,MTL label,1,3.5,3.0,2.0,3.75,KB
+1041,b18_24,GB,High_school,Female,2,2,2,2,158.0,83.0,Weekly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),≤7h,30-60min,482,Chicken Chili Soup,A,5,healthy,5,4,4,2,5,4,3,2,2,1,4,MTL label,1,4.5,3.0,3.0,2.0,KB
+1042,bover_55,GB,MSc,Female,4,4,3,4,153.0,70.0,Monthly,Daily,Medium,No Goal,Not at all,Not enough (<3h),≤7h,30-60min,1005,Michelle's Blonde Chicken Chili,A,4,healthy,4,4,4,3,3,4,3,2,2,2,2,MTL label,1,3.75,3.0,2.0,3.75,KB
+1043,bover_55,GB,High_school,Female,3,4,3,4,165.0,65.0,Weekly,Daily,Medium,No Goal,Somewhat,Average (=6h),≤7h,≥60min,107,Best of Everything Veggie Burgers,A,6,healthy,4,4,4,2,3,2,3,2,3,2,3,MTL label,1,3.75,2.3333333333333335,3.0,3.5,KB
+1044,bover_55,GB,BA,Female,4,5,4,5,160.0,65.0,Weekly,Daily,Very_High,No Goal,Somewhat,Average (=6h),≤7h,30-60min,561,Moroccan Tagine,A,6,healthy,4,4,4,3,3,4,3,1,2,1,2,MTL label,1,3.75,2.6666666666666665,2.0,4.5,KB
+1046,b25_35,GB,High_school,Female,3,4,4,4,5.0,80.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,3,4,4,4,3,1,2,1,2,2,2,MTL label,1,3.5,1.3333333333333333,2.0,3.75,KB
+1047,b45_55,GB,MSc,Male,3,4,3,4,178.0,68.0,Daily,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,≤30min,2051,Zucchini Pasta II,B,7,healthy,4,4,4,2,3,2,2,2,2,2,2,MTL label,1,3.75,2.0,2.0,3.5,KB
+1048,b35_45,GB,BA,Female,4,4,3,3,164.0,63.0,Weekly,Daily,Medium,Lose Weight,Not at all,A lot (>9h),≤7h,≤30min,561,Moroccan Tagine,A,6,healthy,3,2,4,2,3,4,3,3,2,2,3,MTL label,1,3.0,3.3333333333333335,2.5,3.5,KB
+1049,b45_55,GB,High_school,Female,2,3,2,3,173.0,114.0,Weekly,Daily,Medium,Lose Weight,Quite a lot,Not enough (<3h),≤7h,≤30min,3533,Grilled Pork Loin Chops,D,9,unhealthy,4,3,3,3,2,4,4,2,4,3,3,MTL label,1,3.0,3.3333333333333335,3.5,2.5,KB
+1050,b25_35,GB,BA,Female,3,4,3,4,162.0,88.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Average (=6h),≤7h,≤30min,3533,Grilled Pork Loin Chops,D,9,unhealthy,5,5,5,3,5,2,2,2,2,2,2,MTL label,1,5.0,2.0,2.0,3.5,KB
+1051,b18_24,GB,BA,Female,4,4,3,4,165.0,51.0,Weekly,Daily,High,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,3,4,3,1,2,2,2,2,2,2,2,MTL label,1,3.0,2.0,2.0,3.75,KB
+1052,b45_55,GB,BA,Female,4,4,4,4,158.0,76.0,Monthly,Weekly,High,No Goal,Somewhat,Average (=6h),≤7h,30-60min,1322,Quinoa and Black Bean Chili,A,5,healthy,4,4,4,3,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,4.0,KB
+1053,b25_35,GB,BA,Female,3,3,2,4,170.0,72.0,Monthly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),≤7h,≤30min,5227,Fire Roasted Tomato and Feta Pasta with Shrimp,B,10,unhealthy,4,3,3,2,4,2,2,2,2,2,2,MTL label,1,3.5,2.0,2.0,3.0,KB
+1054,b25_35,GB,BA,Female,3,4,3,3,178.0,80.0,Monthly,Weekly,Medium,Lose Weight,Not at all,Average (=6h),≤7h,≤30min,1005,Michelle's Blonde Chicken Chili,A,4,healthy,3,4,4,1,3,1,2,2,3,2,1,MTL label,1,3.5,1.6666666666666667,2.0,3.25,KB
+1055,b45_55,GB,BA,Female,4,4,3,4,157.0,98.0,Daily,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,3,4,4,2,3,1,2,1,2,2,2,MTL label,1,3.5,1.3333333333333333,2.0,3.75,KB
+1056,b35_45,GB,BA,Female,3,4,3,4,162.0,69.0,Weekly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,2955,Chicken Pasta I,A,5,healthy,4,4,4,3,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,3.5,KB
+1057,b35_45,GB,BA,Female,4,4,3,4,166.0,65.0,Monthly,Daily,Low,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,2282,Pasta Fagioli Soup II,A,6,healthy,4,3,4,4,4,2,2,2,3,3,2,MTL label,1,3.75,2.0,2.5,3.75,KB
+1058,b35_45,GB,High_school,Female,4,4,3,4,162.0,120.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Not enough (<3h),≤7h,≤30min,3533,Grilled Pork Loin Chops,D,9,unhealthy,4,4,4,3,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,3.75,KB
+1059,b25_35,GB,High_school,Male,3,4,4,4,181.0,170.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,188,Honey Mustard BBQ Pork Chops,B,8,healthy,4,4,4,2,4,4,3,3,3,2,4,MTL label,1,4.0,3.3333333333333335,3.5,3.75,KB
+1060,b35_45,GB,High_school,Female,3,4,3,4,150.0,0.0,Monthly,Weekly,Medium,No Goal,Not at all,Not enough (<3h),≤7h,≤30min,3533,Grilled Pork Loin Chops,D,9,unhealthy,3,2,2,2,2,2,2,2,4,2,3,MTL label,1,2.25,2.0,3.5,3.5,KB
+1061,b45_55,GB,BA,Male,4,4,4,4,173.0,85.0,Weekly,Daily,Medium,No Goal,Not at all,Average (=6h),≤7h,≤30min,3444,Kickin' Turkey Burger with Caramelized Onions and Spicy Sweet Mayo,C,9,unhealthy,4,4,5,3,3,2,2,1,2,1,2,MTL label,1,4.0,1.6666666666666667,2.0,4.0,KB
+1062,b18_24,GB,High_school,Male,4,4,4,4,173.0,69.0,Weekly,Daily,Medium,Gain Weight,Not at all,Average (=6h),7-9h,30-60min,2003,Sweet and Spicy Pork and Napa Cabbage Stir-Fry with Spicy Noodles,B,7,healthy,5,4,4,3,3,2,3,2,2,1,2,MTL label,1,4.0,2.3333333333333335,2.0,4.0,KB
+1063,bover_55,GB,BA,Male,4,4,4,4,1800.0,150.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),≤7h,30-60min,3092,Thai Ginger Chicken (Gai Pad King),A,4,healthy,4,4,4,3,3,4,4,3,3,2,2,MTL label,1,3.75,3.6666666666666665,2.5,4.0,KB
+1064,b35_45,GB,High_school,Female,4,4,3,4,180.0,81.0,Monthly,Daily,High,Lose Weight,Not at all,Average (=6h),≤7h,≥60min,3735,Hawaiian Chicken II,C,10,unhealthy,4,4,4,4,4,4,3,2,3,2,2,MTL label,1,4.0,3.0,2.5,3.75,KB
+1066,b35_45,GB,BA,Male,4,5,4,5,175.0,75.0,Monthly,Weekly,Medium,No Goal,Not at all,Average (=6h),7-9h,30-60min,2803,Divine Spaghetti Sauce,A,6,healthy,4,4,4,3,3,3,2,3,4,2,3,MTL label,1,3.75,2.6666666666666665,3.5,4.5,KB
+1067,b35_45,GB,MSc,Female,4,4,4,4,165.0,88.0,Monthly,Weekly,Medium,Lose Weight,Not at all,Average (=6h),7-9h,≤30min,3137,Angel Hair Pasta Chicken,A,6,healthy,4,4,4,3,3,4,3,2,2,2,1,MTL label,1,3.75,3.0,1.5,4.0,KB
+1068,b35_45,GB,High_school,Male,4,5,4,5,185.0,79.0,Monthly,Daily,Very_High,No Goal,Quite a lot,A lot (>9h),≤7h,30-60min,3092,Thai Ginger Chicken (Gai Pad King),A,4,healthy,4,3,4,2,4,4,4,5,2,1,2,MTL label,1,3.75,4.333333333333333,2.0,4.5,KB
+1069,b35_45,GB,BA,Female,4,4,4,4,168.0,71.0,Monthly,Weekly,Low,Lose Weight,Not at all,Average (=6h),≤7h,≤30min,1005,Michelle's Blonde Chicken Chili,A,4,healthy,4,3,4,3,3,2,2,2,4,2,2,MTL label,1,3.5,2.0,3.0,4.0,KB
+1070,b35_45,GB,High_school,Male,2,3,4,3,174.0,70.0,Monthly,Monthly,Low,No Goal,Somewhat,Average (=6h),≤7h,≥60min,446,Brazilian Black Bean Stew,A,6,healthy,4,2,4,1,2,2,4,2,2,2,2,MTL label,1,3.0,2.6666666666666665,2.0,3.0,KB
+1071,b18_24,GB,BA,Female,5,5,3,3,161.0,48.0,Monthly,Daily,Very_High,Gain Weight,Not at all,A lot (>9h),≥9h,≤30min,2051,Zucchini Pasta II,B,7,healthy,1,1,1,1,1,1,3,1,1,3,1,MTL label,1,1.0,1.6666666666666667,1.0,4.0,KB
+1073,b35_45,GB,MSc,Male,3,3,3,2,167.0,74.0,Weekly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),≤7h,30-60min,1005,Michelle's Blonde Chicken Chili,A,4,healthy,4,4,4,3,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,2.75,KB
+1074,b25_35,GB,High_school,Female,3,3,4,3,149.0,57.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),≤7h,≤30min,3533,Grilled Pork Loin Chops,D,9,unhealthy,4,3,4,3,3,2,3,2,2,2,3,MTL label,1,3.5,2.3333333333333335,2.5,3.25,KB
+1075,b45_55,GB,BA,Female,4,4,4,4,160.0,78.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),7-9h,30-60min,3087,Sweet Italian Chicken Sausage and Tortellini Soup,A,7,healthy,4,3,3,1,3,3,4,4,2,2,1,MTL label,1,3.25,3.6666666666666665,1.5,4.0,KB
+1076,b35_45,GB,MSc,Male,4,5,4,5,160.0,53.0,Weekly,Daily,Very_High,Lose Weight,Not at all,Not enough (<3h),≤7h,30-60min,107,Best of Everything Veggie Burgers,A,6,healthy,4,4,4,4,4,3,2,3,2,2,2,MTL label,1,4.0,2.6666666666666665,2.0,4.5,KB
+1077,b45_55,GB,High_school,Female,2,3,2,4,152.0,82.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Not enough (<3h),≤7h,≤30min,3444,Kickin' Turkey Burger with Caramelized Onions and Spicy Sweet Mayo,C,9,unhealthy,3,2,4,2,3,4,3,1,2,2,2,MTL label,1,3.0,2.6666666666666665,2.0,2.75,KB
+1078,b18_24,GB,High_school,Male,2,3,4,2,169.0,60.0,Monthly,Weekly,Low,No Goal,Somewhat,Average (=6h),≤7h,30-60min,561,Moroccan Tagine,A,6,healthy,4,3,3,1,3,2,3,2,2,2,2,MTL label,1,3.25,2.3333333333333335,2.0,2.75,KB
+1079,b35_45,GB,BA,Male,4,5,4,5,180.0,82.0,Weekly,Daily,Low,No Goal,Somewhat,A lot (>9h),7-9h,30-60min,4635,Jimmy's Mexican Pizza,C,9,unhealthy,5,4,5,3,4,2,2,1,1,2,2,MTL label,1,4.5,1.6666666666666667,1.5,4.5,KB
+2030,b18_24,GB,High_school,Female,2,2,2,3,175.0,90.0,Weekly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,≤30min,6209,Barbeque beef casserole,C,9,unhealthy,2,2,3,1,3,4,4,3,2,2,2,Full label,2,2.5,3.6666666666666665,2.0,2.25,KB
+2031,b35_45,GB,BA,Male,3,4,4,4,187.0,86.0,Monthly,Daily,Medium,Lose Weight,Not at all,A lot (>9h),7-9h,30-60min,3735,Divine meatloaf,C,10,unhealthy,4,4,4,4,4,4,4,4,4,2,2,Full label,2,4.0,4.0,3.0,3.75,KB
+2033,b35_45,GB,High_school,Male,4,4,4,5,180.0,100.0,Monthly,Daily,Very_High,Lose Weight,Not at all,Not enough (<3h),7-9h,30-60min,200,Hoisin-ginger beef skewers,B,6,healthy,4,4,3,4,3,4,4,3,2,2,3,Full label,2,3.5,3.6666666666666665,2.5,4.25,KB
+2034,b45_55,GB,High_school,Female,4,4,4,4,167.0,15.0,Monthly,Monthly,High,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,4336,Make ahead lunch wraps,A,9,unhealthy,5,5,5,1,5,2,2,4,2,2,4,Full label,2,5.0,2.6666666666666665,3.0,4.0,KB
+2035,b18_24,GB,BA,Female,4,4,4,5,168.0,75.0,Weekly,Weekly,Medium,Lose Weight,Quite a lot,Not enough (<3h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,4,4,2,3,3,4,2,2,1,2,Full label,2,3.75,3.0,2.0,4.25,KB
+2036,b25_35,GB,Doctorate,Female,3,3,3,4,165.0,65.0,Daily,Daily,High,No Goal,Not at all,Average (=6h),≤7h,30-60min,3489,Flank steak with avocado salsa,A,10,unhealthy,5,4,4,3,4,2,2,2,3,2,2,Full label,2,4.25,2.0,2.5,3.25,KB
+2037,bover_55,GB,High_school,Female,3,4,3,4,180.0,56.0,Weekly,Weekly,Medium,No Goal,Somewhat,Not enough (<3h),≥9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,4,4,2,3,4,3,2,2,1,3,Full label,2,3.75,3.0,2.5,3.5,KB
+2038,b35_45,GB,BA,Female,5,5,5,5,160.0,52.0,Monthly,Daily,Medium,No Goal,Not at all,Not enough (<3h),7-9h,30-60min,3735,Hawaiian chicken ii,C,10,unhealthy,4,4,4,2,3,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,5.0,KB
+2039,b25_35,GB,MSc,Female,4,4,4,5,170.0,70.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,2051,Zucchini pasta ii,B,7,healthy,3,3,3,2,1,4,5,4,2,3,4,Full label,2,2.5,4.333333333333333,3.0,4.25,KB
+2040,b25_35,GB,BA,Male,3,3,4,3,178.0,108.0,Monthly,Monthly,Medium,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,5,4,4,3,4,1,1,1,1,1,1,Full label,2,4.25,1.0,1.0,3.25,KB
+2042,b45_55,GB,MSc,Male,4,4,3,4,190.0,90.0,Monthly,Daily,Medium,No Goal,Not at all,Not enough (<3h),7-9h,30-60min,3735,Luscious chicken pot pie,C,10,unhealthy,4,4,4,3,4,2,2,2,2,3,2,Full label,2,4.0,2.0,2.0,3.75,KB
+2043,b18_24,GB,High_school,Female,3,2,1,2,150.0,63.0,Monthly,Weekly,Low,No Goal,Somewhat,Average (=6h),7-9h,≤30min,645,Attitude chicken,A,7,healthy,3,4,3,2,3,1,2,2,1,1,1,Full label,2,3.25,1.6666666666666667,1.0,2.0,KB
+2044,b25_35,GB,BA,Female,4,4,4,4,163.0,63.0,Weekly,Daily,Medium,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,6209,Hawaiian chicken ii,C,9,unhealthy,4,5,4,2,3,4,4,3,2,2,1,Full label,2,4.0,3.6666666666666665,1.5,4.0,KB
+2045,b25_35,GB,MSc,Male,4,5,5,5,179.0,120.0,Weekly,Daily,High,No Goal,Somewhat,Average (=6h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,4,5,3,4,3,4,4,4,2,4,Full label,2,4.25,3.6666666666666665,4.0,4.75,KB
+2046,b45_55,GB,High_school,Female,4,4,4,4,170.0,68.0,Monthly,Weekly,High,No Goal,Not at all,A lot (>9h),7-9h,30-60min,3735,Hawaiian chicken ii,C,10,unhealthy,4,4,4,3,3,2,2,1,2,2,1,Full label,2,3.75,1.6666666666666667,1.5,4.0,KB
+2047,b25_35,GB,MSc,Male,4,4,4,4,180.0,85.0,Weekly,Daily,Medium,No Goal,Not at all,A lot (>9h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,4,4,3,4,2,2,1,2,2,2,Full label,2,4.0,1.6666666666666667,2.0,4.0,KB
+2048,b45_55,GB,High_school,Female,4,5,5,5,162.0,58.0,Monthly,Weekly,High,Lose Weight,Somewhat,Average (=6h),7-9h,30-60min,2051,Zucchini pasta ii,B,7,healthy,4,3,4,2,4,4,2,2,2,1,5,Full label,2,3.75,2.6666666666666665,3.5,4.75,KB
+2049,b45_55,GB,BA,Female,3,4,3,4,160.0,73.0,Weekly,Daily,High,No Goal,Not at all,Not enough (<3h),≤7h,30-60min,4075,Flank steak with avocado salsa,C,9,unhealthy,3,2,4,2,3,4,4,2,2,2,1,Full label,2,3.0,3.3333333333333335,1.5,3.5,KB
+2051,b45_55,GB,BA,Female,3,4,3,3,167.0,76.0,Weekly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),≥9h,≥60min,779,Zesty tilapia with mushrooms,B,7,healthy,4,4,4,2,4,3,4,2,4,3,2,Full label,2,4.0,3.0,3.0,3.25,KB
+2052,b45_55,GB,Doctorate,Male,3,3,4,4,172.0,72.0,Monthly,Weekly,Medium,No Goal,Quite a lot,Average (=6h),≤7h,30-60min,3489,Beer braised irish stew and colcannon,A,10,unhealthy,4,3,4,3,4,2,3,2,2,2,3,Full label,2,3.75,2.3333333333333335,2.5,3.5,KB
+2053,b18_24,GB,High_school,Female,4,4,4,5,161.0,57.0,Weekly,Daily,High,No Goal,Not at all,Average (=6h),7-9h,30-60min,2051,Zucchini pasta ii,B,7,healthy,4,3,4,2,4,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,4.25,KB
+2054,b45_55,GB,BA,Male,4,4,3,5,178.0,75.0,Weekly,Weekly,Medium,Lose Weight,Not at all,A lot (>9h),7-9h,30-60min,2051,Zucchini pasta ii,B,7,healthy,4,4,4,3,4,4,4,1,2,2,2,Full label,2,4.0,3.0,2.0,4.0,KB
+2057,b45_55,GB,High_school,Female,3,4,4,4,5.0,48.0,Weekly,Weekly,High,Lose Weight,Not at all,Average (=6h),≤7h,30-60min,1005,Michelle's blonde chicken chili,A,4,healthy,5,5,5,3,4,2,2,1,2,2,2,Full label,2,4.75,1.6666666666666667,2.0,3.75,KB
+2058,b45_55,GB,High_school,Female,4,4,3,4,158.0,71.0,Monthly,Weekly,Medium,No Goal,Not at all,A lot (>9h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,3,4,2,4,3,2,1,2,1,1,Full label,2,3.75,2.0,1.5,3.75,KB
+2059,b18_24,GB,MSc,Female,3,4,4,4,163.0,50.0,Monthly,Weekly,Low,No Goal,Not at all,Average (=6h),≤7h,≤30min,561,Moroccan tagine,A,6,healthy,4,4,4,4,3,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,3.75,KB
+2060,b35_45,GB,MSc,Female,3,3,3,4,169.0,100.0,Monthly,Weekly,Low,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,72,Grilled buffalo wings,A,6,healthy,4,3,2,2,2,2,2,1,1,2,3,Full label,2,2.75,1.6666666666666667,2.0,3.25,KB
+2061,b25_35,GB,High_school,Female,4,4,3,4,167.0,98.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),≥9h,30-60min,200,Hoisin-ginger beef skewers,B,6,healthy,5,5,5,3,4,2,2,1,1,2,1,Full label,2,4.75,1.6666666666666667,1.0,3.75,KB
+2062,b35_45,GB,High_school,Female,3,3,3,3,158.0,64.0,Monthly,Monthly,Medium,Lose Weight,Not at all,Average (=6h),7-9h,≤30min,6209,Grilled apple and swiss cheese sandwich,C,9,unhealthy,4,4,4,3,4,4,3,2,2,2,3,Full label,2,4.0,3.0,2.5,3.0,KB
+2063,b25_35,GB,High_school,Female,4,4,4,4,165.0,63.0,Weekly,Daily,High,Lose Weight,Not at all,Not enough (<3h),7-9h,≤30min,2051,Zucchini pasta ii,B,7,healthy,4,4,4,2,4,2,2,2,2,2,4,Full label,2,4.0,2.0,3.0,4.0,KB
+2064,b18_24,GB,BA,Female,4,3,4,4,160.0,60.0,Monthly,Weekly,High,Lose Weight,Not at all,Average (=6h),≤7h,30-60min,3489,Flank steak with avocado salsa,A,10,unhealthy,4,3,4,2,3,3,2,2,4,2,4,Full label,2,3.5,2.3333333333333335,4.0,3.75,KB
+2066,b25_35,GB,High_school,Female,3,4,3,4,162.0,63.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Average (=6h),7-9h,30-60min,3735,Luscious chicken pot pie,C,10,unhealthy,4,4,4,3,3,2,2,1,2,2,2,Full label,2,3.75,1.6666666666666667,2.0,3.5,KB
+2067,b35_45,GB,BA,Male,2,1,2,2,175.0,57.0,Monthly,Daily,Low,No Goal,Somewhat,Not enough (<3h),≤7h,30-60min,1828,The best vegetarian chili in the world,A,6,healthy,4,4,4,4,4,2,4,2,2,2,3,Full label,2,4.0,2.6666666666666665,2.5,1.75,KB
+2068,bover_55,GB,Less_high_school,Female,3,4,4,4,153.0,126.0,Monthly,Daily,High,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,200,Hoisin-ginger beef skewers,B,6,healthy,4,3,4,3,4,4,4,4,4,2,2,Full label,2,3.75,4.0,3.0,3.75,KB
+2069,bover_55,GB,BA,Female,4,5,4,5,165.0,60.0,Weekly,Daily,High,No Goal,Not at all,Average (=6h),≤7h,30-60min,2265,Tomato-curry lentil stew,A,4,healthy,4,4,4,3,4,2,2,1,1,1,1,Full label,2,4.0,1.6666666666666667,1.0,4.5,KB
+2070,bover_55,GB,High_school,Female,3,4,2,3,164.0,61.0,Monthly,Monthly,Low,Lose Weight,Not at all,Not enough (<3h),≤7h,≤30min,561,Moroccan tagine,A,6,healthy,4,4,4,2,4,4,3,2,2,2,2,Full label,2,4.0,3.0,2.0,3.0,KB
+2071,b35_45,GB,BA,Male,4,4,4,4,190.0,113.0,Weekly,Daily,Medium,No Goal,Somewhat,A lot (>9h),7-9h,≤30min,6209,Mom's squash casserole,C,9,unhealthy,3,2,3,1,3,4,4,2,2,4,2,Full label,2,2.75,3.3333333333333335,2.0,4.0,KB
+2072,b45_55,GB,Doctorate,Female,3,4,3,4,162.0,100.0,Monthly,Daily,High,No Goal,Not at all,Not enough (<3h),7-9h,≥60min,2593,Salsa chicken burrito filling,C,6,healthy,4,4,4,3,4,2,2,2,2,2,3,Full label,2,4.0,2.0,2.5,3.5,KB
+2073,b25_35,GB,BA,Female,5,5,5,5,164.0,101.0,Weekly,Daily,Very_High,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,200,Hoisin-ginger beef skewers,B,6,healthy,4,4,4,4,4,1,2,2,1,2,1,Full label,2,4.0,1.6666666666666667,1.0,5.0,KB
+2074,b18_24,GB,BA,Female,3,4,4,4,158.0,55.0,Weekly,Weekly,Medium,No Goal,Not at all,A lot (>9h),7-9h,30-60min,3735,Hawaiian chicken ii,C,10,unhealthy,4,3,4,2,3,1,2,1,2,2,2,Full label,2,3.5,1.3333333333333333,2.0,3.75,KB
+2075,b45_55,GB,MSc,Female,5,5,4,5,174.0,70.0,Monthly,Daily,High,No Goal,Not at all,A lot (>9h),7-9h,30-60min,3735,Eggplant parmesan ii,C,10,unhealthy,4,4,4,4,4,2,3,2,4,2,3,Full label,2,4.0,2.3333333333333335,3.5,4.75,KB
+2076,b35_45,GB,BA,Female,5,5,5,5,150.0,52.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,30-60min,2051,Zucchini pasta ii,B,7,healthy,4,3,3,3,3,2,2,2,2,2,2,Full label,2,3.25,2.0,2.0,5.0,KB
+2077,bover_55,GB,BA,Male,4,4,4,5,160.0,79.0,Weekly,Daily,High,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,4,4,3,4,2,3,2,2,2,3,Full label,2,4.0,2.3333333333333335,2.5,4.25,KB
+2078,b45_55,GB,BA,Male,1,2,2,1,178.0,111.0,Monthly,Daily,High,No Goal,Somewhat,A lot (>9h),≤7h,30-60min,4075,Roxie's bran muffins,C,9,unhealthy,4,4,5,1,3,2,4,5,5,3,4,Full label,2,4.0,3.6666666666666665,4.5,1.5,KB
+2079,b18_24,GB,High_school,Female,3,3,4,3,150.0,69.0,Monthly,Daily,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,≤30min,645,Attitude chicken,A,7,healthy,4,4,4,3,3,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,3.25,KB
+2080,b45_55,GB,High_school,Female,4,4,4,4,178.0,77.0,Weekly,Weekly,High,No Goal,Not at all,Average (=6h),≤7h,≥60min,3735,Easy baked chicken,C,10,unhealthy,4,4,4,3,3,4,3,2,2,2,2,Full label,2,3.75,3.0,2.0,4.0,KB
+2081,b45_55,GB,High_school,Female,4,5,5,5,177.0,69.0,Monthly,Daily,Very_High,No Goal,Not at all,Average (=6h),7-9h,≥60min,2051,Zucchini pasta ii,B,7,healthy,4,3,4,2,3,1,2,1,2,2,4,Full label,2,3.5,1.3333333333333333,3.0,4.75,KB
+2082,b18_24,GB,High_school,refuse_to_disc,4,4,4,4,164.0,104.0,Weekly,Daily,High,Lose Weight,Quite a lot,Not enough (<3h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,5,5,1,3,2,2,2,4,2,3,Full label,2,4.25,2.0,3.5,4.0,KB
+2083,b35_45,GB,High_school,Female,2,4,3,4,162.0,108.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,2955,Chicken pasta i,A,5,healthy,4,5,4,2,4,2,1,1,3,2,4,Full label,2,4.25,1.3333333333333333,3.5,3.25,KB
+2084,b35_45,GB,BA,Female,3,4,4,4,175.0,96.0,Daily,Daily,High,Lose Weight,Somewhat,Not enough (<3h),7-9h,30-60min,200,Hoisin-ginger beef skewers,B,6,healthy,5,4,4,4,4,2,2,2,2,2,2,Full label,2,4.25,2.0,2.0,3.75,KB
+2085,bover_55,GB,High_school,Male,2,4,4,4,173.0,82.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),≤7h,≥60min,1782,Lentil soup iii,A,4,healthy,4,5,4,2,3,4,3,2,2,2,2,Full label,2,4.0,3.0,2.0,3.5,KB
+2086,b35_45,GB,MSc,Female,4,4,4,4,168.0,64.0,Weekly,Daily,High,No Goal,Not at all,A lot (>9h),7-9h,≥60min,2051,Zucchini pasta ii,B,7,healthy,4,4,4,2,3,4,4,2,2,2,2,Full label,2,3.75,3.3333333333333335,2.0,4.0,KB
+2087,b35_45,GB,High_school,Female,3,4,2,4,170.0,70.0,Monthly,Monthly,Low,No Goal,Not at all,Average (=6h),≥9h,≤30min,6209,Hawaiian chicken ii,C,9,unhealthy,4,4,4,4,3,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,3.25,KB
+2088,b45_55,GB,BA,Male,3,3,4,4,173.0,83.0,Monthly,Weekly,Medium,No Goal,Somewhat,Not enough (<3h),≤7h,30-60min,1322,Quinoa and black bean chili,A,5,healthy,4,4,4,3,3,2,2,2,2,2,3,Full label,2,3.75,2.0,2.5,3.5,KB
+2089,bover_55,GB,High_school,Male,3,3,3,4,165.0,65.0,Daily,Daily,Medium,Lose Weight,Not at all,Average (=6h),7-9h,30-60min,2051,Zucchini pasta ii,B,7,healthy,4,3,4,2,3,3,2,2,3,3,2,Full label,2,3.5,2.3333333333333335,2.5,3.25,KB
+2090,b18_24,GB,MSc,Female,4,4,4,5,168.0,73.0,Daily,Daily,High,Lose Weight,Somewhat,A lot (>9h),7-9h,30-60min,6209,Burrito pie,C,9,unhealthy,4,2,3,1,2,2,5,4,2,2,2,Full label,2,2.75,3.6666666666666665,2.0,4.25,KB
+2091,bover_55,GB,MSc,Male,3,4,3,4,183.0,89.0,Daily,Daily,Medium,No Goal,Somewhat,Average (=6h),≤7h,≥60min,561,Moroccan tagine,A,6,healthy,4,4,4,3,3,2,3,1,3,2,3,Full label,2,3.75,2.0,3.0,3.5,KB
+2092,b35_45,GB,MSc,Female,3,4,3,4,173.0,82.0,Monthly,Weekly,Medium,Lose Weight,Somewhat,Not enough (<3h),7-9h,≤30min,6209,Gel's green beans and beef,C,9,unhealthy,4,4,4,3,3,2,2,2,2,3,2,Full label,2,3.75,2.0,2.0,3.5,KB
+2093,b25_35,GB,BA,Female,4,3,3,4,164.0,57.0,Monthly,Daily,Medium,No Goal,Not at all,Average (=6h),7-9h,≤30min,2051,Zucchini pasta ii,B,7,healthy,4,3,4,2,4,1,1,1,1,1,1,Full label,2,3.75,1.0,1.0,3.5,KB
+13,b25_35,GB,BA,Male,3,4,3,4,,,,,,,,,,,3445,Unbelievable Grilled Garlic Bread,D,10,unhealhy,4,2,4,3,3,2,2,3,2,2,2,No label,0,3.25,2.3333333333333335,2.0,3.5,CB
+14,b18_24,GB,High_school,Female,3,4,4,4,,,,,,,,,,,2634,Quick Chinese-Style Vermicelli (Rice Noodles),C,7,healthy,4,3,4,1,3,2,3,1,2,3,2,No label,0,3.5,2.0,2.0,3.75,CB
+15,bover_55,GB,BA,Female,3,4,2,3,,,,,,,,,,,617,Marinated Rosemary Lemon Chicken,A,5,healthy,5,5,5,4,4,2,2,2,2,2,2,No label,0,4.75,2.0,2.0,3.0,CB
+16,bover_55,GB,High_school,Female,4,4,4,4,,,,,,,,,,,4994,Israeli Salad,B,8,healthy,5,5,4,2,4,4,4,4,1,1,1,No label,0,4.5,4.0,1.0,4.0,CB
+17,b35_45,GB,MSc,Female,4,4,3,4,,,,,,,,,,,5994,Oklahoma Brisket,C,12,unhealhy,4,4,4,2,3,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,3.75,CB
+18,b18_24,GB,BA,Female,4,4,3,5,,,,,,,,,,,6308,Mango Salsa Salmon,A,6,healthy,5,5,5,4,5,1,2,1,1,2,1,No label,0,5.0,1.3333333333333333,1.0,4.0,CB
+19,b25_35,GB,BA,Female,4,4,4,4,,,,,,,,,,,764,Molly's Mouthwatering Tzatziki Cucumber Sauce,C,6,healthy,4,4,4,2,4,2,4,2,2,2,4,No label,0,4.0,2.6666666666666665,3.0,4.0,CB
+20,b25_35,GB,High_school,Female,4,4,4,4,,,,,,,,,,,1771,Chicken with Bouillon,B,7,healthy,4,3,5,2,3,2,4,2,2,2,2,No label,0,3.75,2.6666666666666665,2.0,4.0,CB
+21,b25_35,GB,High_school,Female,3,4,3,4,,,,,,,,,,,6089,Tender Italian Baked Chicken,C,10,unhealhy,5,5,5,2,4,2,2,4,2,1,1,No label,0,4.75,2.6666666666666665,1.5,3.5,CB
+22,b18_24,GB,BA,Male,2,2,2,2,,,,,,,,,,,1933,G's Flank Steak Marinade,D,11,healthy,3,3,4,1,3,1,2,2,2,2,2,No label,0,3.25,1.6666666666666667,2.0,2.0,CB
+23,b25_35,GB,MSc,Female,3,4,3,4,,,,,,,,,,,7156,Sausage Pasta,A,9,unhealhy,4,4,3,2,4,2,2,3,2,2,3,No label,0,3.75,2.3333333333333335,2.5,3.5,CB
+24,b45_55,GB,High_school,Female,3,3,3,3,,,,,,,,,,,8165,Mustard Fried Chicken,A,6,healthy,4,3,4,3,3,2,2,1,1,2,2,No label,0,3.5,1.6666666666666667,1.5,3.0,CB
+25,b25_35,GB,BA,Male,4,4,4,4,,,,,,,,,,,1259,Watermelon Cooler Slushy,B,5,healthy,5,5,5,2,5,1,1,3,1,1,3,No label,0,5.0,1.6666666666666667,2.0,4.0,CB
+26,b35_45,GB,MSc,Female,3,4,3,4,,,,,,,,,,,4621,Thai Pork Satay,C,8,healthy,5,4,4,2,4,4,3,2,2,2,3,No label,0,4.25,3.0,2.5,3.5,CB
+27,b45_55,GB,BA,Male,4,4,3,4,,,,,,,,,,,10781,Roasted Vegetables,A,4,healthy,3,2,3,2,4,4,4,3,4,3,2,No label,0,3.0,3.6666666666666665,3.0,3.75,CB
+28,bover_55,GB,MSc,Male,4,4,4,5,,,,,,,,,,,215,Creamy Chicken Lasagna,C,10,unhealhy,4,3,5,2,3,4,4,1,2,2,2,No label,0,3.75,3.0,2.0,4.25,CB
+29,b25_35,GB,BA,Female,4,3,3,4,,,,,,,,,,,10941,Sweet and Spicy Stir Fry with Chicken and Broccoli,A,6,healthy,3,3,3,4,3,3,2,4,3,2,4,No label,0,3.0,3.0,3.5,3.5,CB
+30,b25_35,GB,BA,Female,4,4,3,4,,,,,,,,,,,5924,Kay's Spaghetti and Lasagna Sauce,A,5,healthy,4,4,4,3,3,2,3,2,3,3,2,No label,0,3.75,2.3333333333333335,2.5,3.75,CB
+31,b45_55,GB,MSc,Female,4,5,5,5,,,,,,,,,,,1886,Cream of Asparagus Soup I,D,10,healthy,4,4,5,2,3,4,4,4,3,2,2,No label,0,4.0,4.0,2.5,4.75,CB
+32,b35_45,GB,BA,Female,3,4,3,4,,,,,,,,,,,10951,The Best Garlic Bread,C,8,healthy,4,3,4,1,3,4,3,2,2,1,2,No label,0,3.5,3.0,2.0,3.5,CB
+33,b25_35,GB,High_school,Male,3,3,2,2,,,,,,,,,,,4061,Thai Orange Chicken,A,8,unhealhy,4,4,4,4,3,1,2,2,2,1,1,No label,0,3.75,1.6666666666666667,1.5,2.5,CB
+34,b25_35,GB,High_school,Female,3,2,3,3,,,,,,,,,,,7650,Sweet and Sour Chicken II,B,8,healthy,5,5,5,5,4,1,1,1,1,1,1,No label,0,4.75,1.0,1.0,2.75,CB
+35,b25_35,GB,High_school,Female,4,4,4,4,,,,,,,,,,,9534,Three Cheese Garlic Scalloped Potatoes,D,9,unhealhy,5,5,5,2,4,4,2,2,2,2,2,No label,0,4.75,2.6666666666666665,2.0,4.0,CB
+36,b25_35,GB,BA,Male,4,4,4,4,,,,,,,,,,,4551,Laura's Lemon Roasted Potatoes,D,9,unhealhy,4,4,4,2,3,3,2,1,3,2,2,No label,0,3.75,2.0,2.5,4.0,CB
+37,bover_55,GB,Less_high_school,Female,3,4,3,4,,,,,,,,,,,3481,Quiche Lorraine I,D,10,unhealhy,4,4,4,5,4,1,2,1,1,2,2,No label,0,4.0,1.3333333333333333,1.5,3.5,CB
+38,b25_35,GB,BA,Male,5,5,4,5,,,,,,,,,,,11399,Grilled Sea Bass,A,9,healthy,4,3,4,3,5,2,2,1,1,1,2,No label,0,4.0,1.6666666666666667,1.5,4.75,CB
+39,b25_35,GB,High_school,Female,3,3,3,2,,,,,,,,,,,6773,Buffalo Chicken Wings II,C,8,healthy,5,4,4,3,4,4,3,3,2,2,2,No label,0,4.25,3.3333333333333335,2.0,2.75,CB
+40,b25_35,GB,BA,Male,4,3,3,2,,,,,,,,,,,7029,Erica's Delicious Slow Cooker Beef Roast,B,9,unhealhy,4,4,4,2,4,4,4,2,1,1,3,No label,0,4.0,3.3333333333333335,2.0,3.0,CB
+41,b45_55,GB,BA,Female,3,4,3,4,,,,,,,,,,,918,Glazed Meatloaf II,C,9,unhealhy,4,3,4,5,3,2,2,2,2,2,2,No label,0,3.5,2.0,2.0,3.5,CB
+42,b25_35,GB,BA,Female,5,5,5,4,,,,,,,,,,,10727,Bean Quesadillas,A,5,healthy,4,4,4,2,4,3,1,4,4,2,4,No label,0,4.0,2.6666666666666665,4.0,4.75,CB
+43,b35_45,GB,BA,Female,3,4,2,2,,,,,,,,,,,309,Grilled Halibut with Cilantro Garlic Butter,A,6,healthy,5,4,4,4,4,2,2,2,2,2,2,No label,0,4.25,2.0,2.0,2.75,CB
+45,b45_55,GB,High_school,Female,4,4,3,4,,,,,,,,,,,6005,Sour Cream and Chive Mashed Potatoes,A,4,healthy,4,3,4,2,4,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,3.75,CB
+46,b35_45,GB,MSc,Female,3,4,3,3,,,,,,,,,,,3888,Lemon Poppy Seed Muffins I,D,8,healthy,4,3,4,1,3,2,2,2,1,2,2,No label,0,3.5,2.0,1.5,3.25,CB
+47,b25_35,GB,BA,Female,3,4,3,3,,,,,,,,,,,10248,Spicy Honey Mustard Pork Roast,C,9,healthy,4,4,4,3,4,2,2,1,2,2,2,No label,0,4.0,1.6666666666666667,2.0,3.25,CB
+48,b35_45,GB,BA,Female,4,4,4,4,,,,,,,,,,,9261,Indian Chicken Curry (Murgh Kari),A,4,healthy,4,3,3,4,4,2,2,2,1,1,1,No label,0,3.5,2.0,1.0,4.0,CB
+49,bover_55,GB,High_school,Female,3,4,4,4,,,,,,,,,,,973,Kevin's Teriyaki Chicken,C,6,healthy,4,4,4,3,4,2,2,2,2,2,2,No label,0,4.0,2.0,2.0,3.75,CB
+50,bover_55,GB,High_school,Female,4,4,3,4,,,,,,,,,,,414,Easy Italian Chicken II,C,9,unhealhy,4,4,4,3,4,2,2,2,2,2,2,No label,0,4.0,2.0,2.0,3.75,CB
+51,b18_24,GB,High_school,Female,3,3,2,3,,,,,,,,,,,5287,Pumpkin Cheesecake Bars,D,9,unhealhy,5,3,5,2,4,2,2,1,1,1,1,No label,0,4.25,1.6666666666666667,1.0,2.75,CB
+52,bover_55,GB,High_school,Male,4,4,3,4,,,,,,,,,,,621,Peanut-Ginger Marinade,B,7,healthy,4,4,5,4,4,2,1,1,2,2,2,No label,0,4.25,1.3333333333333333,2.0,3.75,CB
+53,bover_55,GB,High_school,Female,3,4,3,3,,,,,,,,,,,281,Quick and Easy Apple Muffins,C,8,healthy,4,3,4,4,3,3,3,4,3,4,3,No label,0,3.5,3.3333333333333335,3.0,3.25,CB
+54,bover_55,GB,High_school,refuse_to_disc,4,4,4,4,,,,,,,,,,,8324,Baked Spaghetti II,C,10,unhealhy,4,4,4,2,4,4,3,3,2,2,3,No label,0,4.0,3.3333333333333335,2.5,4.0,CB
+55,b25_35,GB,High_school,Female,4,4,4,4,,,,,,,,,,,5943,Kris' Amazing Shredded Mexican Beef,A,6,healthy,4,4,2,2,3,2,3,2,2,2,1,No label,0,3.25,2.3333333333333335,1.5,4.0,CB
+56,b25_35,GB,BA,Female,5,4,4,4,,,,,,,,,,,1118,Bulgogi (Korean Barbecued Beef),C,8,healthy,4,5,3,2,3,4,4,3,1,1,1,No label,0,3.75,3.6666666666666665,1.0,4.25,CB
+57,b25_35,GB,BA,Female,2,2,2,2,,,,,,,,,,,5203,Pumpkin Bread II,D,9,unhealhy,4,2,4,2,3,4,3,2,2,2,2,No label,0,3.25,3.0,2.0,2.0,CB
+58,b25_35,GB,MSc,Female,3,4,4,5,,,,,,,,,,,5182,Sweet Potato Gnocchi,A,5,healthy,4,3,4,1,3,4,3,1,1,3,2,No label,0,3.5,2.6666666666666665,1.5,4.0,CB
+59,bover_55,GB,High_school,Female,3,4,3,3,,,,,,,,,,,3677,Creamy Spinach Soup,A,7,unhealhy,4,3,4,2,3,2,2,2,2,2,4,No label,0,3.5,2.0,3.0,3.25,CB
+60,b25_35,GB,BA,Female,3,4,4,5,,,,,,,,,,,7750,Broccoli With Lemon Almond Butter,A,8,healthy,4,4,4,1,3,1,1,1,1,1,5,No label,0,3.75,1.0,3.0,4.0,CB
+61,b45_55,GB,Not,Male,4,3,3,4,,,,,,,,,,,10457,Brigid's Blackberry Pie,A,6,unhealhy,4,3,3,2,3,2,3,2,3,5,2,No label,0,3.25,2.3333333333333335,2.5,3.5,CB
+62,b35_45,GB,MSc,Male,4,4,4,4,,,,,,,,,,,1251,Easy Hummus,A,5,healthy,4,4,4,3,3,2,2,2,2,2,2,No label,0,3.75,2.0,2.0,4.0,CB
+63,b35_45,GB,BA,Female,3,4,3,4,,,,,,,,,,,1313,Chicken and Red Wine Sauce,A,6,healthy,4,4,4,2,4,2,2,3,3,3,2,No label,0,4.0,2.3333333333333335,2.5,3.5,CB
+64,b25_35,GB,BA,Female,3,4,2,2,,,,,,,,,,,8877,Fruit Pizza II,D,9,unhealhy,4,3,4,2,3,4,3,2,2,2,2,No label,0,3.5,3.0,2.0,2.75,CB
+65,b35_45,GB,High_school,Female,3,3,3,3,,,,,,,,,,,904,Homemade Chicken Fettuccine,E,11,unhealhy,5,4,4,3,4,1,2,1,1,2,2,No label,0,4.25,1.3333333333333333,1.5,3.0,CB
+66,b45_55,GB,BA,Female,3,4,4,4,,,,,,,,,,,865,Marinated Wild Salmon,B,8,healthy,3,3,4,2,4,2,5,5,2,2,2,No label,0,3.5,4.0,2.0,3.75,CB
+67,b45_55,GB,BA,refuse_to_disc,3,4,4,4,,,,,,,,,,,67,Pumpkin Pie Bread,D,9,unhealhy,4,3,4,1,3,4,4,2,2,1,1,No label,0,3.5,3.3333333333333335,1.5,3.75,CB
+68,b35_45,GB,BA,Male,3,4,4,4,,,,,,,,,,,4551,Lemon Bundt Cake,D,9,unhealhy,4,4,4,2,4,3,4,4,2,3,3,No label,0,4.0,3.6666666666666665,2.5,3.75,CB
+69,bover_55,GB,BA,Female,4,4,4,5,,,,,,,,,,,452,Green Chili Chicken Burgers,B,10,unhealhy,4,4,4,4,3,4,3,2,2,2,2,No label,0,3.75,3.0,2.0,4.25,CB
+70,bover_55,GB,BA,Female,5,5,5,5,,,,,,,,,,,975,Moroccan Chicken,A,6,healthy,2,2,2,1,2,2,2,2,2,5,2,No label,0,2.0,2.0,2.0,5.0,CB
+71,b35_45,GB,BA,Female,3,4,3,4,,,,,,,,,,,1962,Chicken Lasagna IV,D,10,unhealhy,4,4,4,3,4,2,3,1,1,2,2,No label,0,4.0,2.0,1.5,3.5,CB
+72,b45_55,GB,High_school,Female,3,4,4,4,,,,,,,,,,,1070,Smothered Filet Mignon,C,9,unhealhy,3,2,3,2,3,5,5,4,3,4,2,No label,0,2.75,4.666666666666667,2.5,3.75,CB
+73,b25_35,GB,MSc,Female,4,4,3,4,,,,,,,,,,,346,A Very Popular BBQ Sauce,D,8,healthy,4,4,4,4,4,1,1,2,2,1,2,No label,0,4.0,1.3333333333333333,2.0,3.75,CB
+3021,b18_24,GB,BA,Male,4,5,5,4,,,,,,,,,,,5041,Mexican Bean Salad,C,10,healthy,4,3,3,4,4,4,4,1,1,2,1,MTL label,1,3.5,3.0,1.0,4.5,CB
+3022,b35_45,GB,BA,Female,2,3,3,4,,,,,,,,,,,4682,Slow Cooker Boneless Turkey Breast,A,6,healthy,4,3,3,1,2,4,4,3,1,3,1,MTL label,1,3.0,3.6666666666666665,1.0,3.0,CB
+3023,b18_24,GB,High_school,Female,4,4,4,4,,,,,,,,,,,2872,Black Bean and Corn Salad II,A,8,healthy,4,4,4,2,3,5,4,4,2,2,3,MTL label,1,3.75,4.333333333333333,2.5,4.0,CB
+3025,bover_55,GB,High_school,Female,3,4,3,3,,,,,,,,,,,5243,Beef Stew II,B,9,unhealhy,4,3,4,3,4,2,2,2,2,2,2,MTL label,1,3.75,2.0,2.0,3.25,CB
+3026,b45_55,GB,High_school,Female,3,4,3,4,,,,,,,,,,,1751,Napa Cabbage Salad,B,10,unhealhy,4,3,4,3,4,2,3,2,3,3,2,MTL label,1,3.75,2.3333333333333335,2.5,3.5,CB
+3027,bover_55,GB,High_school,Male,3,4,3,3,,,,,,,,,,,5243,Beef Stew II,B,9,unhealhy,4,3,4,3,3,4,4,2,2,2,2,MTL label,1,3.5,3.3333333333333335,2.0,3.25,CB
+3028,b35_45,GB,High_school,Male,1,2,2,2,,,,,,,,,,,844,Potato and Cheese Frittata,B,7,healthy,4,4,4,1,3,1,2,2,2,1,1,MTL label,1,3.75,1.6666666666666667,1.5,1.75,CB
+3029,b45_55,GB,BA,Male,3,4,3,5,,,,,,,,,,,2284,Chicken Curry I,A,7,healthy,4,4,4,3,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,3.75,CB
+3030,b25_35,GB,MSc,Male,3,4,3,3,,,,,,,,,,,343,Chicken Garlic Pizza,A,5,healthy,3,1,3,3,1,1,3,3,2,2,2,MTL label,1,2.0,2.3333333333333335,2.0,3.25,CB
+3031,bover_55,GB,High_school,Female,3,4,2,3,,,,,,,,,,,347,Crispy and Tender Baked Chicken Thighs,B,8,healthy,4,4,5,3,4,3,2,2,2,1,2,MTL label,1,4.25,2.3333333333333335,2.0,3.0,CB
+3032,b35_45,GB,MSc,Female,3,4,4,3,,,,,,,,,,,6358,Roast Beef Burritos,B,9,unhealhy,5,5,5,1,5,1,1,1,1,1,2,MTL label,1,5.0,1.0,1.5,3.5,CB
+3033,b35_45,GB,MSc,Female,4,5,4,4,,,,,,,,,,,5567,Avocado Shrimp Ceviche-Estillo Sarita,A,5,healthy,3,3,5,1,3,2,2,1,2,1,1,MTL label,1,3.5,1.6666666666666667,1.5,4.25,CB
+3034,b45_55,GB,High_school,Male,3,3,4,3,,,,,,,,,,,6814,Baked Scalloped Potatoes,A,4,healthy,4,3,4,2,3,4,3,2,3,2,4,MTL label,1,3.5,3.0,3.5,3.25,CB
+3035,b35_45,GB,Less_high_school,Male,3,4,4,3,,,,,,,,,,,1963,Slow Cooker Chicken Marrakesh,A,5,healthy,5,5,5,2,5,1,1,1,1,1,1,MTL label,1,5.0,1.0,1.0,3.5,CB
+3036,b18_24,GB,BA,Female,4,4,3,4,,,,,,,,,,,4614,Easy Pumpkin Muffins,D,11,healthy,4,3,4,2,3,4,4,5,4,4,4,MTL label,1,3.5,4.333333333333333,4.0,3.75,CB
+3037,b25_35,GB,BA,Female,3,3,3,3,,,,,,,,,,,7818,Homemade Chicken Fettuccine,C,10,unhealhy,5,4,4,2,4,2,2,2,2,2,1,MTL label,1,4.25,2.0,1.5,3.0,CB
+3038,b18_24,GB,High_school,Male,3,4,3,4,,,,,,,,,,,1512,Tabbouleh I,A,6,healthy,4,4,4,3,3,2,4,2,2,2,2,MTL label,1,3.75,2.6666666666666665,2.0,3.5,CB
+3039,b45_55,GB,High_school,Female,3,3,3,4,,,,,,,,,,,3255,Cheese Lover's Chicken,C,9,unhealhy,4,4,4,2,4,2,2,2,2,2,2,MTL label,1,4.0,2.0,2.0,3.25,CB
+3040,b45_55,GB,High_school,Female,2,3,3,2,,,,,,,,,,,9351,The Best Lemon Bars,B,5,unhealhy,4,3,4,3,4,2,2,2,2,2,2,MTL label,1,3.75,2.0,2.0,2.5,CB
+3041,b25_35,GB,High_school,Female,3,4,4,3,,,,,,,,,,,12481,Strawberry Refrigerator Cake,D,11,unhealhy,4,4,4,2,3,4,4,3,3,3,3,MTL label,1,3.75,3.6666666666666665,3.0,3.5,CB
+3042,b35_45,GB,MSc,Female,3,3,3,3,,,,,,,,,,,10568,Rib Eye Steaks with a Soy and Ginger Marinade,C,9,unhealhy,5,4,4,2,3,1,2,4,1,1,1,MTL label,1,4.0,2.3333333333333335,1.0,3.0,CB
+3043,b25_35,GB,High_school,Female,3,4,3,3,,,,,,,,,,,6018,Chicken Wild Rice Soup I,B,10,unhealhy,4,3,3,3,3,2,3,2,2,2,2,MTL label,1,3.25,2.3333333333333335,2.0,3.25,CB
+3044,b25_35,GB,MSc,Female,4,4,4,4,,,,,,,,,,,7140,Vegetarian Chili,A,6,healthy,4,2,3,1,3,3,4,2,1,1,2,MTL label,1,3.0,3.0,1.5,4.0,CB
+3045,b45_55,GB,BA,Female,3,3,3,3,,,,,,,,,,,7156,Sausage Pasta,A,9,unhealhy,4,3,4,2,2,4,4,2,2,2,1,MTL label,1,3.25,3.3333333333333335,1.5,3.0,CB
+3047,b35_45,GB,MSc,Male,2,2,3,2,,,,,,,,,,,1292,Easy Marinated Pork Tenderloin,B,10,unhealhy,4,3,3,1,1,2,3,2,3,4,2,MTL label,1,2.75,2.3333333333333335,2.5,2.25,CB
+3048,b35_45,GB,Not,Female,3,4,3,4,,,,,,,,,,,2382,Pauline Werner's Beef Stew,A,8,healthy,4,1,5,3,4,2,3,1,1,1,1,MTL label,1,3.5,2.0,1.0,3.5,CB
+3049,bover_55,GB,BA,Female,5,5,5,5,,,,,,,,,,,414,Easy Italian Chicken II,C,9,unhealhy,4,4,4,4,4,2,2,1,1,1,1,MTL label,1,4.0,1.6666666666666667,1.0,5.0,CB
+3050,bover_55,GB,BA,Female,4,4,4,5,,,,,,,,,,,2298,Mike's Mushroom Bread,C,8,healthy,2,2,3,2,1,3,4,4,1,1,1,MTL label,1,2.0,3.6666666666666665,1.0,4.25,CB
+3051,b25_35,GB,BA,Female,3,4,2,3,,,,,,,,,,,895,Honey Mustard Grilled Chicken,D,9,healthy,4,3,3,2,3,2,3,2,2,2,2,MTL label,1,3.25,2.3333333333333335,2.0,3.0,CB
+3052,b35_45,GB,High_school,Female,2,3,2,2,,,,,,,,,,,12273,Cold Corn Salad,C,6,healthy,3,3,4,1,2,4,4,1,3,2,1,MTL label,1,3.0,3.0,2.0,2.25,CB
+3053,b35_45,GB,High_school,Female,4,4,4,4,,,,,,,,,,,2805,Roasted Pork Loin,B,6,healthy,4,4,4,2,4,2,3,2,2,2,2,MTL label,1,4.0,2.3333333333333335,2.0,4.0,CB
+3054,b35_45,GB,BA,Female,4,4,3,4,,,,,,,,,,,11168,Blueberry Bread I,D,7,healthy,4,3,4,1,3,1,1,1,2,2,1,MTL label,1,3.5,1.0,1.5,3.75,CB
+3055,b25_35,GB,BA,Male,4,3,3,4,,,,,,,,,,,8528,Garbanzo Stir-Fry,A,5,healthy,4,2,4,2,3,4,4,3,2,2,2,MTL label,1,3.25,3.6666666666666665,2.0,3.5,CB
+3056,b18_24,GB,High_school,Male,4,4,4,4,,,,,,,,,,,5464,Strawberry Oat Muffins,C,7,healthy,4,3,4,3,3,2,2,1,2,2,2,MTL label,1,3.5,1.6666666666666667,2.0,4.0,CB
+3057,bover_55,GB,BA,Female,4,4,4,3,,,,,,,,,,,9771,Egg and Hash Brown Pie,C,8,healthy,4,4,4,3,3,5,4,3,3,2,3,MTL label,1,3.75,4.0,3.0,3.75,CB
+3058,b18_24,GB,BA,Female,3,4,4,4,,,,,,,,,,,3635,Camp David Spaghetti with Italian Sausage,B,8,healthy,4,4,4,1,4,2,2,1,2,2,2,MTL label,1,4.0,1.6666666666666667,2.0,3.75,CB
+3059,b25_35,GB,MSc,Male,3,4,2,4,,,,,,,,,,,1003,Mama's Asian Chicken and Rice,B,5,healthy,3,4,4,2,4,2,2,4,1,3,3,MTL label,1,3.75,2.6666666666666665,2.0,3.25,CB
+3060,b45_55,GB,BA,Female,3,4,2,4,,,,,,,,,,,531,Salmon with Brown Sugar Glaze,B,8,healthy,4,3,4,2,3,2,2,2,2,3,2,MTL label,1,3.5,2.0,2.0,3.25,CB
+3061,b35_45,GB,High_school,Female,4,4,3,4,,,,,,,,,,,9976,Apple Breakfast Bread,D,10,unhealhy,3,3,3,2,3,4,5,3,2,2,2,MTL label,1,3.0,4.0,2.0,3.75,CB
+3062,b45_55,GB,High_school,Male,3,3,3,3,,,,,,,,,,,11090,Hawaiian Banana Nut Bread,D,9,unhealhy,4,3,4,3,4,3,4,2,2,2,2,MTL label,1,3.75,3.0,2.0,3.0,CB
+3063,b45_55,GB,BA,Female,4,4,4,5,,,,,,,,,,,617,Marinated Rosemary Lemon Chicken,A,5,healthy,5,4,4,4,4,2,3,1,2,2,2,MTL label,1,4.25,2.0,2.0,4.25,CB
+3064,b35_45,GB,High_school,Female,4,4,4,4,,,,,,,,,,,3069,Lemon Pepper Cod,A,5,healthy,4,3,4,2,3,2,2,1,2,2,2,MTL label,1,3.5,1.6666666666666667,2.0,4.0,CB
+3065,b25_35,GB,High_school,Female,3,3,3,3,,,,,,,,,,,10788,Bowties and Broccoli,A,7,healthy,5,4,4,3,4,4,4,4,1,1,2,MTL label,1,4.25,4.0,1.5,3.0,CB
+3066,b25_35,GB,High_school,Female,1,2,1,1,,,,,,,,,,,2399,Easy Mac and Cheese Muffins,D,8,healthy,4,2,4,2,4,4,4,2,2,2,2,MTL label,1,3.5,3.3333333333333335,2.0,1.25,CB
+3067,b25_35,GB,MSc,Female,3,4,3,4,,,,,,,,,,,6527,Stuffed Shells IV,B,7,healthy,4,4,4,3,3,1,1,1,1,1,1,MTL label,1,3.75,1.0,1.0,3.5,CB
+3068,bover_55,GB,High_school,Male,3,4,3,4,,,,,,,,,,,1477,White Cheese Chicken Lasagna,C,10,unhealhy,4,4,3,3,4,2,2,2,2,2,2,MTL label,1,3.75,2.0,2.0,3.5,CB
+3069,b25_35,GB,High_school,Female,3,4,4,4,,,,,,,,,,,4872,Jimmbo's Garlic Knots,B,9,unhealhy,3,3,3,1,2,4,4,2,2,2,2,MTL label,1,2.75,3.3333333333333335,2.0,3.75,CB
+3070,b35_45,GB,BA,Male,3,2,2,2,,,,,,,,,,,8575,Pumpkin Cookies VI,D,10,unhealhy,4,2,4,1,2,2,2,3,2,2,1,MTL label,1,3.0,2.3333333333333335,1.5,2.25,CB
+3071,b25_35,GB,BA,Male,5,5,5,5,,,,,,,,,,,1824,Lemon Ginger Shrimp,A,6,healthy,5,3,5,1,5,2,2,2,2,2,2,MTL label,1,4.5,2.0,2.0,5.0,CB
+3072,b45_55,GB,BA,Female,4,3,3,4,,,,,,,,,,,12052,Ali's Amazing Bruschetta,C,8,healthy,4,4,3,3,3,4,4,3,2,2,3,MTL label,1,3.5,3.6666666666666665,2.5,3.5,CB
+3073,b18_24,GB,High_school,Male,4,4,4,4,,,,,,,,,,,5401,Red Wine Flavored Beef,A,4,healthy,4,3,4,2,4,2,2,2,2,2,3,MTL label,1,3.75,2.0,2.5,4.0,CB
+3074,bover_55,GB,High_school,Male,3,4,3,3,,,,,,,,,,,6334,Jean's Homemade Chicken Noodle Soup,A,6,healthy,4,4,4,2,4,2,2,3,2,2,2,MTL label,1,4.0,2.3333333333333335,2.0,3.25,CB
+3076,b25_35,GB,BA,Female,4,4,3,4,,,,,,,,,,,6270,Hodie's Sloppy Joes,C,9,unhealhy,4,4,4,2,3,3,3,4,2,2,2,MTL label,1,3.75,3.3333333333333335,2.0,3.75,CB
+3077,b25_35,GB,MSc,Male,4,4,4,4,,,,,,,,,,,9581,Potato Leek Soup III,D,9,unhealhy,4,3,4,2,5,1,1,1,1,1,1,MTL label,1,4.0,1.0,1.0,4.0,CB
+3078,bover_55,GB,BA,Female,3,4,4,4,,,,,,,,,,,12698,Lemon Pepper Pasta,D,10,healthy,4,2,2,1,2,1,4,1,3,4,4,MTL label,1,2.5,2.0,3.5,3.75,CB
+3079,b18_24,GB,High_school,Female,2,2,2,2,,,,,,,,,,,10533,Angela's Awesome Enchiladas,B,9,unhealhy,4,3,4,3,3,2,2,2,2,2,2,MTL label,1,3.5,2.0,2.0,2.0,CB
+3080,bover_55,GB,High_school,Male,4,4,4,4,,,,,,,,,,,74,Busy Day Chicken,A,7,healthy,5,5,5,3,5,1,4,4,2,1,1,MTL label,1,5.0,3.0,1.5,4.0,CB
+3081,b45_55,GB,High_school,Female,4,4,4,4,,,,,,,,,,,10377,Southern Potato Salad,A,8,healthy,5,4,4,4,3,2,2,2,2,3,2,MTL label,1,4.0,2.0,2.0,4.0,CB
+3082,b45_55,GB,BA,Female,4,4,4,5,,,,,,,,,,,10626,Banana Boats,C,7,healthy,4,2,3,2,3,1,2,3,4,5,4,MTL label,1,3.0,2.0,4.0,4.25,CB
+3083,b45_55,GB,High_school,Female,5,5,5,5,,,,,,,,,,,3838,Ratatouille,A,4,healthy,5,5,5,3,4,4,4,2,2,1,1,MTL label,1,4.75,3.3333333333333335,1.5,5.0,CB
+4008,b25_35,GB,BA,Female,4,4,4,4,,,,,,,,,,,3612,Chicken and peppers with balsamic vinegar,A,7,healthy,4,3,4,1,2,4,4,4,2,2,2,Full label,2,3.25,4.0,2.0,4.0,CB
+4009,b35_45,UM,MSc,Female,4,4,4,4,,,,,,,,,,,192,Krystal's perfect marinade for bbq or grilled chicken,E,10,unhealhy,3,3,4,3,3,2,2,2,4,3,4,Full label,2,3.25,2.0,4.0,4.0,CB
+4010,b45_55,GB,MSc,Female,2,2,2,2,,,,,,,,,,,7415,Easy shake and bake chicken,C,9,unhealhy,4,3,4,4,3,2,2,1,2,3,2,Full label,2,3.5,1.6666666666666667,2.0,2.0,CB
+4011,b25_35,GB,MSc,Female,3,4,4,4,,,,,,,,,,,5401,Oven roasted potatoes,A,4,healthy,4,4,4,3,3,3,2,3,2,4,2,Full label,2,3.75,2.6666666666666665,2.0,3.75,CB
+4012,b25_35,GB,High_school,Male,4,4,3,4,,,,,,,,,,,7667,Meatball spaghetti sauce,B,7,healthy,5,4,4,4,4,2,2,1,3,2,4,Full label,2,4.25,1.6666666666666667,3.5,3.75,CB
+4013,b25_35,GB,BA,Female,4,4,4,4,,,,,,,,,,,11120,California roll salad,A,6,healthy,3,4,4,2,4,2,2,4,2,2,2,Full label,2,3.75,2.6666666666666665,2.0,4.0,CB
+4014,b25_35,GB,BA,Male,3,2,2,2,,,,,,,,,,,9127,Chocolate zucchini bread ii,D,10,unhealhy,3,3,3,3,3,4,4,3,4,3,3,Full label,2,3.0,3.6666666666666665,3.5,2.25,CB
+4015,b18_24,GB,High_school,Male,3,3,2,2,,,,,,,,,,,12293,Grandma's lemon meringue pie,C,9,unhealhy,4,2,4,2,3,1,1,1,2,1,1,Full label,2,3.25,1.0,1.5,2.5,CB
+4016,b25_35,GB,High_school,Female,3,3,3,4,,,,,,,,,,,7257,Chicken and bow tie pasta,C,10,unhealhy,4,4,4,3,4,2,2,2,2,3,2,Full label,2,4.0,2.0,2.0,3.25,CB
+4017,b25_35,GB,MSc,Female,4,4,3,3,,,,,,,,,,,8186,Antipasto salad,C,10,unhealhy,4,2,4,2,4,2,2,2,2,2,2,Full label,2,3.5,2.0,2.0,3.5,CB
+4018,b18_24,GB,MSc,Male,4,4,3,4,,,,,,,,,,,5882,Hearty beef stew,A,9,unhealhy,4,4,4,4,4,2,2,1,3,2,2,Full label,2,4.0,1.6666666666666667,2.5,3.75,CB
+4019,b45_55,GB,High_school,Female,5,5,4,5,,,,,,,,,,,7015,Spanish rice ii,A,9,healthy,4,3,5,2,3,2,2,2,2,1,5,Full label,2,3.75,2.0,3.5,4.75,CB
+4020,bover_55,GB,MSc,Male,3,4,4,4,,,,,,,,,,,6367,California salad bowl,C,8,healthy,4,4,4,2,4,2,2,2,4,2,2,Full label,2,4.0,2.0,3.0,3.75,CB
+4021,b25_35,GB,BA,Female,3,4,3,3,,,,,,,,,,,10499,Zucchini patties,B,7,healthy,4,2,3,1,4,1,2,1,4,2,4,Full label,2,3.25,1.3333333333333333,4.0,3.25,CB
+4022,b35_45,GB,High_school,Female,3,3,3,3,,,,,,,,,,,7222,Cheese garlic biscuits i,D,9,unhealhy,5,4,5,4,4,2,2,2,2,1,2,Full label,2,4.5,2.0,2.0,3.0,CB
+4023,b35_45,GB,High_school,Female,3,3,2,3,,,,,,,,,,,7894,Creamy strawberry crepes,D,8,unhealhy,4,3,4,2,3,4,4,3,2,2,2,Full label,2,3.5,3.6666666666666665,2.0,2.75,CB
+4024,b25_35,GB,High_school,Female,3,5,4,5,,,,,,,,,,,8303,Meat loaf pie,D,11,healthy,4,2,4,2,4,4,4,1,1,1,1,Full label,2,3.5,3.0,1.0,4.25,CB
+4025,b25_35,GB,High_school,Female,4,4,3,4,,,,,,,,,,,1285,Garlic chicken fried chicken,A,7,healthy,4,4,4,1,4,3,4,4,3,2,3,Full label,2,4.0,3.6666666666666665,3.0,3.75,CB
+4026,b25_35,GB,High_school,Female,4,4,3,4,,,,,,,,,,,2709,Slow cooker chicken stroganoff,D,10,unhealhy,4,4,3,1,3,5,5,2,2,2,2,Full label,2,3.5,4.0,2.0,3.75,CB
+4027,b45_55,GB,High_school,Female,3,4,3,4,,,,,,,,,,,8152,Tzatziki sauce ii,B,5,healthy,4,4,4,3,3,2,2,3,2,3,2,Full label,2,3.75,2.3333333333333335,2.0,3.5,CB
+4028,b25_35,GB,BA,Female,2,3,2,1,,,,,,,,,,,5547,Cheesy corn casserole,B,6,healthy,4,4,4,3,3,4,4,3,2,1,2,Full label,2,3.75,3.6666666666666665,2.0,2.0,CB
+4029,b25_35,GB,MSc,Female,3,4,4,4,,,,,,,,,,,5157,Simple lemon herb chicken,A,5,healthy,4,3,4,2,4,2,2,2,2,5,2,Full label,2,3.75,2.0,2.0,3.75,CB
+4030,b25_35,GB,BA,Female,4,4,4,5,,,,,,,,,,,5401,Chicken broccoli ca - unieng's style,A,4,healthy,5,5,5,3,5,2,2,2,3,2,4,Full label,2,5.0,2.0,3.5,4.25,CB
+4031,b25_35,GB,BA,Male,4,4,3,3,,,,,,,,,,,1629,Carrot pineapple cake i,D,11,unhealhy,4,3,3,2,3,3,3,3,4,4,3,Full label,2,3.25,3.0,3.5,3.5,CB
+4032,b18_24,GB,High_school,Female,4,3,4,3,,,,,,,,,,,3399,Banana chocolate chip cookies,E,11,unhealhy,4,4,4,3,4,4,3,2,4,3,4,Full label,2,4.0,3.0,4.0,3.5,CB
+4033,b25_35,GB,MSc,Female,3,4,3,5,,,,,,,,,,,2412,Chicken piccata with angel hair pasta,D,11,unhealhy,4,4,3,3,4,4,3,2,2,2,2,Full label,2,3.75,3.0,2.0,3.75,CB
+4034,b25_35,GB,BA,Female,2,4,2,3,,,,,,,,,,,850,Warm mushroom spread,D,10,healthy,4,3,5,3,3,3,2,2,1,1,2,Full label,2,3.75,2.3333333333333335,1.5,2.75,CB
+4035,b45_55,GB,BA,Female,2,3,2,2,,,,,,,,,,,179,Lasagna stuffed shells,B,6,unhealhy,4,4,4,2,4,2,2,1,2,2,1,Full label,2,4.0,1.6666666666666667,1.5,2.25,CB
+4036,b25_35,GB,BA,Female,4,4,4,4,,,,,,,,,,,4096,Salsa chicken,C,9,unhealhy,4,4,4,2,3,5,4,3,4,2,2,Full label,2,3.75,4.0,3.0,4.0,CB
+4037,b25_35,GB,MSc,Female,2,2,2,2,,,,,,,,,,,5991,Peach kuchen,C,10,healthy,4,4,5,3,4,1,2,2,1,2,1,Full label,2,4.25,1.6666666666666667,1.0,2.0,CB
+4038,b45_55,GB,High_school,Female,3,5,4,4,,,,,,,,,,,1707,Easy chicken fajita soup,C,11,healthy,4,3,4,1,3,2,4,4,3,1,1,Full label,2,3.5,3.3333333333333335,2.0,4.0,CB
+4039,b35_45,GB,MSc,Male,3,4,3,3,,,,,,,,,,,5084,Spanish rice ii,B,6,healthy,5,4,4,2,4,2,3,4,3,2,3,Full label,2,4.25,3.0,3.0,3.25,CB
+4040,b25_35,GB,BA,Female,4,4,4,5,,,,,,,,,,,1752,Slow cooker thai pork with peppers,B,8,healthy,4,4,4,3,3,2,2,2,2,2,2,Full label,2,3.75,2.0,2.0,4.25,CB
+4041,b18_24,GB,BA,Male,3,4,2,2,,,,,,,,,,,12478,Orange glorious i,B,5,healthy,4,3,2,4,3,1,1,1,3,1,3,Full label,2,3.0,1.0,3.0,2.75,CB
+4042,b25_35,GB,High_school,Male,3,4,4,4,,,,,,,,,,,3139,Quinoa and black bean chili,B,7,healthy,4,3,3,4,2,2,3,2,3,3,3,Full label,2,3.0,2.3333333333333335,3.0,3.75,CB
+4043,b25_35,GB,High_school,Female,3,4,3,4,,,,,,,,,,,8635,Low-fat blueberry bran muffins,B,5,healthy,4,4,4,3,4,3,2,3,1,1,1,Full label,2,4.0,2.6666666666666665,1.0,3.5,CB
+4044,b35_45,GB,BA,Female,2,2,1,2,,,,,,,,,,,339,Bbq dry rub,C,11,healthy,5,5,5,5,5,1,1,1,2,1,2,Full label,2,5.0,1.0,2.0,1.75,CB
+4045,b35_45,GB,BA,Female,4,4,3,4,,,,,,,,,,,4521,Cheesy italian tortellini,B,10,unhealhy,3,2,2,2,3,4,4,2,2,2,2,Full label,2,2.5,3.3333333333333335,2.0,3.75,CB
+4046,bover_55,GB,BA,Male,3,4,4,4,,,,,,,,,,,5208,Salmon tango,A,7,unhealhy,4,3,4,2,4,2,2,2,2,2,3,Full label,2,3.75,2.0,2.5,3.75,CB
+4047,b25_35,GB,BA,Female,4,4,4,4,,,,,,,,,,,1541,Garden fresh tomato soup,C,6,healthy,4,4,4,2,4,4,3,3,2,2,2,Full label,2,4.0,3.3333333333333335,2.0,4.0,CB
+4048,bover_55,GB,High_school,Female,3,3,3,3,,,,,,,,,,,8323,Creamed spinach ii,B,6,healthy,5,4,5,3,4,1,1,1,1,1,1,Full label,2,4.5,1.0,1.0,3.0,CB
+4049,bover_55,GB,High_school,Female,3,3,3,2,,,,,,,,,,,7229,Spinach enchiladas verde,B,8,healthy,4,4,4,4,4,1,2,2,4,2,4,Full label,2,4.0,1.6666666666666667,4.0,2.75,CB
+4050,b45_55,GB,High_school,Female,4,4,4,4,,,,,,,,,,,426,Spicy salmon with caramelized onions,B,7,unhealhy,4,3,4,2,3,3,3,2,2,2,3,Full label,2,3.5,2.6666666666666665,2.5,4.0,CB
+4051,b18_24,GB,Less_high_school,Male,5,5,4,4,,,,,,,,,,,6124,Apple cinnamon white cake,D,10,unhealhy,4,3,3,3,3,3,3,2,2,3,3,Full label,2,3.25,2.6666666666666665,2.5,4.5,CB
+4052,b18_24,GB,MSc,Female,4,5,5,5,,,,,,,,,,,10681,Broccoli with garlic butter and cashews,C,8,healthy,4,4,4,2,4,4,3,4,2,2,2,Full label,2,4.0,3.6666666666666665,2.0,4.75,CB
+4053,b35_45,GB,BA,Female,4,4,3,4,,,,,,,,,,,1547,Korean bbq beef (pul-kogi),D,10,healthy,4,3,4,3,3,2,2,2,2,2,2,Full label,2,3.5,2.0,2.0,3.75,CB
+4054,b18_24,GB,High_school,Male,4,4,4,4,,,,,,,,,,,10893,Korean marinade,A,5,unhealhy,4,4,4,2,3,2,1,1,2,1,2,Full label,2,3.75,1.3333333333333333,2.0,4.0,CB
+4055,bover_55,GB,High_school,Female,3,3,3,4,,,,,,,,,,,11549,Pumpkin bread ii,D,9,unhealhy,4,3,4,2,3,2,2,2,2,2,2,Full label,2,3.5,2.0,2.0,3.25,CB
+4056,b18_24,GB,High_school,Female,3,3,2,3,,,,,,,,,,,9990,Mushroom pie,D,9,unhealhy,3,3,2,1,2,2,3,1,2,1,1,Full label,2,2.5,2.0,1.5,2.75,CB
+4057,b35_45,GB,BA,Male,3,4,4,4,,,,,,,,,,,7773,Salmon patties i,B,10,healthy,4,4,4,2,4,3,2,3,2,2,4,Full label,2,4.0,2.6666666666666665,3.0,3.75,CB
+4058,b35_45,GB,BA,Male,4,4,4,5,,,,,,,,,,,5695,Caesar salad supreme,A,8,healthy,4,4,3,1,3,2,3,2,2,2,2,Full label,2,3.5,2.3333333333333335,2.0,4.25,CB
+4059,b25_35,GB,BA,Male,4,4,4,4,,,,,,,,,,,4069,Rasta pasta,A,8,healthy,4,4,4,2,4,2,3,2,1,1,1,Full label,2,4.0,2.3333333333333335,1.0,4.0,CB
+4060,b18_24,GB,BA,Male,2,4,3,4,,,,,,,,,,,828,Lemon glazed cake,E,10,unhealhy,5,5,5,4,3,2,2,1,3,4,3,Full label,2,4.5,1.6666666666666667,3.0,3.25,CB
+4061,b25_35,GB,MSc,Female,5,5,5,5,,,,,,,,,,,6266,Quinoa and black bean chili,A,5,healthy,3,3,2,3,3,4,4,3,3,2,2,Full label,2,2.75,3.6666666666666665,2.5,5.0,CB
+4062,b25_35,GB,High_school,Female,3,4,4,3,,,,,,,,,,,2781,Garlic croutons,E,9,unhealhy,4,4,3,2,2,4,3,2,2,2,2,Full label,2,3.25,3.0,2.0,3.5,CB
+4063,b25_35,GB,MSc,Female,3,4,3,4,,,,,,,,,,,1831,Cajun style blackened snapper,E,10,unhealhy,4,4,4,3,4,2,4,2,2,2,3,Full label,2,4.0,2.6666666666666665,2.5,3.5,CB
+4064,b35_45,GB,High_school,Female,2,3,2,2,,,,,,,,,,,576,Taco bake i,D,10,unhealhy,4,4,4,3,4,5,4,3,4,2,3,Full label,2,4.0,4.0,3.5,2.25,CB
+4065,b25_35,GB,BA,Female,4,4,4,5,,,,,,,,,,,4143,Zesty slow cooker chicken barbecue,C,8,healthy,4,4,3,2,3,2,2,2,2,2,5,Full label,2,3.5,2.0,3.5,4.25,CB
+4066,b25_35,GB,BA,Female,3,3,3,4,,,,,,,,,,,7818,Hearty hot or cold roasted tomato soup,C,10,healthy,5,5,5,3,4,4,4,3,3,3,5,Full label,2,4.75,3.6666666666666665,4.0,3.25,CB
+4067,bover_55,GB,High_school,Male,3,4,4,4,,,,,,,,,,,8487,Pork tenderloin with pineapple salsa,A,5,healthy,4,5,4,3,4,3,2,2,1,1,2,Full label,2,4.25,2.3333333333333335,1.5,3.75,CB
